@@ -1,5 +1,12 @@
 proxies:
 
-  - {name: 🇯🇵 JPN東京都, server: 35.221.89.207, port: 8989, type: ss, cipher: aes-256-cfb, password: teddysun.com}
+    -
+    name: '白嫖 /试用 节点 01'
+    type: ss
+    server: linshi01.clashcloud.club
+    port: 48707
+    cipher: rc4-md5
+    password: 7YcMWq
+    udp: true
 
 
