@@ -1,3 +1,10 @@
 proxies:
+  - {name: 🇺🇲 a1.zeuslink.space, server: a1.zeuslink.space, port: 443, type: trojan, password: ahuqw1231asd, sni: a1.zeuslink.space}
+  - {name: 🇺🇲 a2.zeuslink.space, server: a2.zeuslink.space, port: 443, type: trojan, password: ahuqw1231asd, sni: a2.zeuslink.space}
+  - {name: 🇺🇲 a3.zeuslink.space, server: a3.zeuslink.space, port: 443, type: trojan, password: ahuqw1231asd, sni: a3.zeuslink.space}
+  - {name: 🇺🇲 a4.zeuslink.space, server: a4.zeuslink.space, port: 443, type: trojan, password: ahuqw1231asd, sni: a4.zeuslink.space}
+  - {name: 🇺🇲 a5.zeuslink.space, server: a5.zeuslink.space, port: 443, type: trojan, password: ahuqw1231asd, sni: a5.zeuslink.space}
+  - {name: 🇺🇲 a6.zeuslink.space, server: a6.zeuslink.space, port: 443, type: trojan, password: ahuqw1231asd, sni: a6.zeuslink.space}
+  - {name: 🇺🇲 a7.zeuslink.space, server: a7.zeuslink.space, port: 443, type: trojan, password: ahuqw1231asd, sni: a7.zeuslink.space}
   - {name: 🇨🇳 CNIX - 白嫖 /试用 节点 01, server: linshi01.clashcloud.club, port: 48707, type: ss, cipher: rc4-md5, password: 7YcMWq}
   - {name: 白嫖 /试用 节点 01, server: linshi01.clashcloud.club, port: 48707, type: ssr, cipher: rc4-md5, password: 7YcMWq, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
