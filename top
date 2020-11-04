@@ -1,12 +1,3 @@
 proxies:
-
-    -
-    name: '白嫖 /试用 节点 01'
-    type: ss
-    server: linshi01.clashcloud.club
-    port: 48707
-    cipher: rc4-md5
-    password: 7YcMWq
-    udp: true
-
-
+  - {name: 🇨🇳 CNIX - 白嫖 /试用 节点 01, server: linshi01.clashcloud.club, port: 48707, type: ss, cipher: rc4-md5, password: 7YcMWq}
+  - {name: 白嫖 /试用 节点 01, server: linshi01.clashcloud.club, port: 48707, type: ssr, cipher: rc4-md5, password: 7YcMWq, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
