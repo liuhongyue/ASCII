@@ -9,3 +9,16 @@ proxies:
   - {name: 🇨🇳 CNIX - 白嫖 /试用 节点 01, server: linshi01.clashcloud.club, port: 48707, type: ss, cipher: rc4-md5, password: 7YcMWq}
   - {name: 白嫖 /试用 节点 01, server: linshi01.clashcloud.club, port: 48707, type: ssr, cipher: rc4-md5, password: 7YcMWq, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
   - {name: 🇮🇳 印度,server: ahl01.tedsc.cc,port: 24539,type: ssr,cipher: aes-256-ctr,password: nautF3,protocol: auth_aes128_md5,obfs: tls1.2_ticket_auth,protocol-param: 34723:wrs3hB,obfs-param: 2824534723.microsoft.com}
+
+
+  - {name: jp.cn-cloudflare.com, server: jp.cn-cloudflare.com,type: http,port: 443,username: null,password: null,tls: true,skip-cert-verify: true}
+  - {name: sg2.cn-cloudflare.com, server: sg2.cn-cloudflare.com,type: http,port: 443,username: null,password: null,tls: true,skip-cert-verify: true}
+  - {name: in2.cn-cloudflare.com, server: in2.cn-cloudflare.com,type: http,port: 443,username: null,password: null,tls: true,skip-cert-verify: true}
+  - {name: au1.cn-cloudflare.com, server: au1.cn-cloudflare.com, type: http,port: 443,  username: null,password: null,tls: true,skip-cert-verify: true}
+  - {name: au2.cn-cloudflare.com, server: au2.cn-cloudflare.com,type: http,port: 443,username: null,password: null,tls: true,skip-cert-verify: true}
+  - {name: de.cn-cloudflare.com, server: de.cn-cloudflare.com,type: http,port: 443,username: null,password: null,tls: true,skip-cert-verify: true}
+  - {name: fr.cn-cloudflare.com, server: fr.cn-cloudflare.com,type: http,port: 443,username: null,password: null,tls: true,skip-cert-verify: true}
+  - {name: pl.cn-cloudflare.com, server: pl.cn-cloudflare.com,type: http,port: 443,username: null,password: null,tls: true,skip-cert-verify: true}
+  - {name: nl.cn-cloudflare.com, server: nl.cn-cloudflare.com,type: http,port: 443,username: null,password: null,tls: true,skip-cert-verify: true}
+  - {name: usa.cn-cloudflare.com, server: usa.cn-cloudflare.com,type: http,port: 443,username: null,password: null,tls: true,skip-cert-verify: true}
+  - {name: ca.cn-cloudflare.com, server: ca.cn-cloudflare.com,type: http,port: 443,username: null,password: null,tls: true,skip-cert-verify: true}
