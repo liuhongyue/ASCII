@@ -22,7 +22,7 @@ Node.js说明:
 浏览器打开 https://www.52pojie.cn/home.php 登录账号后, 开启抓包软件并刷新页面.
 抓取该URL请求头下的Cookie字段, 填入以下CookieWA的单引号内即可. */
 
-const CookieWA = '';
+const CookieWA = 'htVD_2132_connect_is_bind=1; htVD_2132_nofavfid=1; htVD_2132_smile=1D1; KF4=ajTT2K; htVD_2132_saltkey=wj7SgVmm; htVD_2132_lastvisit=1605843962; htVD_2132_auth=dc5fgQpt8jG5K3p%2BEgFXKZD43loSGYh8wAW9DG2y3ue1QnV6df87tqSiM485aEwY6UuzQruXS24%2BX6RRpNoeH5drm8M; Hm_lvt_46d556462595ed05e05f009cdafff31a=1606782777,1606969425,1607042316,1607405365; htVD_2132_visitedfid=16D66D8D2D74; htVD_2132_sid=0; htVD_2132_ttask=906197%7C20201213; htVD_2132_noticonf=906197D1D3_3_1; htVD_2132_ulastactivity=1607866750%7C0; htVD_2132_lastcheckfeed=906197%7C1607866751; htVD_2132_lastact=1607868031%09plugin.php%09; ';
 
 /***********************
 Surge 4.2.0+ 脚本配置:
