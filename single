@@ -9,4 +9,6 @@ proxies:
   - {name:   243, server: 107.175.44.154, port: 443, type: vmess, uuid: 114f5786-a8a0-446a-a32f-446893480560, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: /27353486f3a1d4f/, ws-headers: {Host: rntwo.laoban666.xyz}}
   - {name: 🇨🇳 台湾, server: tw01.pjj.life, port: 12334, type: ssr, cipher: aes-128-cfb, password: pjj.one, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 41832598:1fb6d3e7-7040-4558-9652-5684fc4d3961, obfs-param: ""}
   - {name: 🇰🇷 韩国, server: sk03.pjj.life, port: 12334, type: ssr, cipher: aes-128-cfb, password: pjj.one, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 41834337:f43390f6-a272-4a01-a40c-171935a170be, obfs-param: ""}
+  - {name: 🇨🇦 加拿大 优化, server: shusa.proconcn.xyz, port: 555, type: ssr, cipher: chacha20-ietf, password: mblank1port, protocol: auth_aes128_md5, obfs: plain, protocol-param: 16457:qwer, obfs-param: cdn.sharepointonline.com}
+  - {name: 🇭🇰 香港aws, server: a73750147ca66fd23.awsglobalaccelerator.com, port: 8080, type: vmess, uuid: dd8e4c7f-3650-4922-9cc2-b9b9e5f87641, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /WebSocket, ws-headers: {Host: a73750147ca66fd23.awsglobalaccelerator.com}}
 
