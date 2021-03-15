@@ -1,6 +1,7 @@
 proxies:
   - {name: 🇷🇺 俄罗斯 -- A -- V2RAY --（公益）-- 2x -- --官網-- -- ninihao.me --, server: zhongzhuangazhk2.xiaobaiyun.me, port: 800, type: vmess, uuid: 01462988-eb36-3443-b723-e8c17f40d580, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls, ws-headers: {Host: els.xiaobaiyun.me}}
   - {name: 🇷🇺 俄罗斯 -- B -- V2RAY --（公益）-- 2x -- --官網-- -- ninihao.me --, server: zhongzhuangazhk.xiaobaiyun.me, port: 824, type: vmess, uuid: 01462988-eb36-3443-b723-e8c17f40d580, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-path: /hls, ws-headers: {Host: elsxxbly.xiaobaiyun.me}}
+  - {name: Denmark🇩🇰-❇️BN_CHANLL, server: 193.29.107.221, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
 
   - {name: 一键联12TG群@subssr, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 418473464362434560, password: 77ebb2a0-00b0-42f2-8af9-0ac0eda6f9e9, tls: true}
   - {name: 一键联16TG群@subssr, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 419454670486896640, password: 37b6099d-7508-4d54-a3e5-9c5cc1407737, tls: true}
