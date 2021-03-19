@@ -14,8 +14,4 @@ proxies:
   - {name: (@proSSH)Kazakhstan 3, server: 95.57.207.206, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: (@proSSH)Slovakia 2, server: 37.120.221.5, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
   - {name: (@proSSH)Slovakia 4, server: 37.120.221.5, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇺🇸 (@proSSH)United-States 12, server: 192.154.255.54, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 🇺🇸 (@proSSH)United-States 44, server: 192.154.255.54, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: (@proSSH)CostaRica, server: 176.227.241.26, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: (@proSSH)CostaRica 3, server: 176.227.241.26, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: (@proSSH)New-Zealand 3, server: 180.149.231.45, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+
