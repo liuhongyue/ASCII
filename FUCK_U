@@ -111,16 +111,6 @@ proxy-providers:
       interval: 600
       url: http://www.gstatic.com/generate_204
 
-  Trump_clash(需要手动拷贝更新):
-    type: http
-    url: https://sub.cm/irP5UVT
-    interval: 3600
-    path: ./Proxy/Trump_clash.yaml
-    health-check:
-      enable: true
-      interval: 600
-      url: http://www.gstatic.com/generate_204
-
   T加速@TJiaSu_Bot:
     type: http
     url: https://sub.id9.cc/sub?target=clash&url=https%3A%2F%2Fv2.tjiasu.xyz%2Fapi%2Fv2%2Fclient%2Fsubscribe%3Ftoken%3D4e1f4c762c3a762caa3509813d8d7d19&insert=false&config=%E5%93%81%E4%BA%91%E4%B8%93%E5%B1%9E%E9%85%8D%E7%BD%AE&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true
@@ -167,7 +157,6 @@ proxy-groups:
       - ♻️ 一键联
       - ♻️ 人人链接
       - ♻️ 1VPN
-      - ♻️ Trump_clash(需要手动拷贝更新)
       - ♻️ T加速@TJiaSu_Bot
       - 03-Borber Hack
       - ♻️ ASCII--Single
@@ -183,7 +172,6 @@ proxy-groups:
       - ♻️ 一键联
       - ♻️ 人人链接
       - ♻️ 1VPN
-      - ♻️ Trump_clash(需要手动拷贝更新)
       - ♻️ T加速@TJiaSu_Bot
       - 03-Borber Hack
       - ♻️ ASCII--Single
@@ -196,7 +184,6 @@ proxy-groups:
       - 人人链接
       - github
       - 1VPN
-      - Trump_clash(需要手动拷贝更新)
       - T加速@TJiaSu_Bot
       - ASCII--Single
       - 顺丰资源
@@ -209,11 +196,11 @@ proxy-groups:
     interval: 600
     proxies:
       - ♻️ 一键联
+      - ♻️ ASCII--Single
       - ♻️ 人人链接
       - ♻️ 1VPN
       - ♻️ Free_Proxies
       - ♻️ github
-      - ♻️ Trump_clash(需要手动拷贝更新)
       - ♻️ T加速@TJiaSu_Bot
   - name: ♻️ github
     use:
@@ -246,13 +233,6 @@ proxy-groups:
   - name: ♻️ 1VPN
     use:
       - 1VPN
-    type: url-test
-    url: http://www.gstatic.com/generate_204
-    interval: 600
-
-  - name: ♻️ Trump_clash(需要手动拷贝更新)
-    use:
-      - Trump_clash(需要手动拷贝更新)
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 600
