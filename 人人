@@ -1,0 +1,3 @@
+proxies:
+  - {name: 🇰🇷 翻墙会_韩国7_自费  电报频道：https://t.me/cnhumanright99, server: bigsur.cf, port: 443, type: vmess, uuid: 54d48b3e-89f5-11eb-a57d-560003426bdc, alterId: 12, cipher: auto, tls: true, network: ws, ws-path: /wyCnX5Dc/, ws-headers: {Host: bigsur.cf}}
+  - {name: 🇨🇳 翻墙会_seoul_2_自费：电报频道：https://t.me/cnhumanright99, server: fuckxijinping.ga, port: 443, type: trojan, password: 389675ea-fd45-4ccd-be25-4df4dbe8ad7f, sni: fuckxijinping.ga}
