@@ -1,27 +1,23 @@
-
 proxies:
+  - {name: ★vpn_proxy66★---1, server: 193.29.107.125, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: ★vpn_proxy66★---14, server: 89.45.7.53, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: ★vpn_proxy66★---19, server: 87.239.254.20, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: ★vpn_proxy66★---21, server: 193.29.107.109, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: ★vpn_proxy66★---32, server: 185.141.206.186, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: ★vpn_proxy66★---34, server: 185.124.240.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: ★vpn_proxy66★---36, server: 37.120.194.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: ★vpn_proxy66★---41, server: 195.140.215.100, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: ★vpn_proxy66★---46, server: 89.187.168.44, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: ★vpn_proxy66★---56, server: 37.120.194.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: ★vpn_proxy66★---59, server: 193.29.107.117, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: ★vpn_proxy66★---62, server: 89.187.168.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: ★vpn_proxy66★---68, server: 37.120.194.107, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: ★vpn_proxy66★---69, server: 193.29.107.99, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: ★vpn_proxy66★---70, server: 89.187.168.41, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
 
-
-  - {name: 🇭🇰 香港A | 中转, server: xzlt2.ddns.tjiasu.xyz, port: 11444, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/shop, ws-headers: {Host: hkv2-1.ddns.tjiasu.xyz}}
-  - {name: 🇭🇰 香港B | 中转A, server: xzlt2.ddns.tjiasu.xyz, port: 11444, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/www, ws-headers: {Host: hkv2.ddns.tjiasu.xyz}}
-  - {name: 🇭🇰 香港B | 中转B, server: gdyd2.ddns.tjiasu.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/www, ws-headers: {Host: hkv2.ddns.tjiasu.xyz}}
-  - {name: 🇰🇷 韩国A | 中转, server: xzlt.ddns.tjiasu.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v2/home, ws-headers: {Host: krv2.ddns.tjiasu.xyz}}
-  - {name: 🇰🇷 韩国A | 直连, server: krv2.ddns.tjiasu.xyz, port: 443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v2/home, ws-headers: {Host: krv2.ddns.tjiasu.xyz}}
-  - {name: 🇰🇷 韩国B | 中转, server: xzlt.ddns.tjiasu.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/krb, ws-headers: {Host: krbc2.ddns.tjiasu.xyz}}
-  - {name: 🇯🇵 日本A | 中转, server: xzlt2.ddns.tjiasu.xyz, port: 11444, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v2/home, ws-headers: {Host: jpac.ddns.tjiasu.xyz}}
-  - {name: 🇯🇵 日本A | 中转B, server: xzlt.ddns.tjiasu.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/v2/home, ws-headers: {Host: jpac.ddns.tjiasu.xyz}}
-  - {name: 🇯🇵 日本C | 中转, server: wzsx.ddns.tjiasu.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/jpcv, ws-headers: {Host: jpcv2.ddns.tjiasu.xyz}}
-  - {name: 🇸🇬 新加坡A | 直连, server: sgav2.ddns.tjiasu.xyz, port: 11130, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/sg, ws-headers: {Host: sgav2.ddns.tjiasu.xyz}}
-  - {name: 🇸🇬 新加坡A | 中转B, server: xzlt.ddns.tjiasu.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/sg, ws-headers: {Host: sgav2.ddns.tjiasu.xyz}}
-  - {name: 🇸🇬 新加坡B | 中转, server: gdyd2.ddns.tjiasu.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/pianist, ws-headers: {Host: pianist.ddns.tjiasu.xyz}}
-  - {name: 🇷🇺 俄罗斯A | 中转, server: xzlt2.ddns.tjiasu.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/rua3, ws-headers: {Host: rua3.ddns.tjiasu.xyz}}
-  - {name: 🇺🇸 美国A | 中转, server: aga.ddns.tjiasu.xyz, port: 443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/common, ws-headers: {Host: usav2.ddns.tjiasu.xyz}}
-  - {name: 🇺🇸 美国B | 中转, server: aga-sg.ddns.tjiasu.xyz, port: 443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/rn, ws-headers: {Host: usbv2.ddns.tjiasu.xyz}}
-  - {name: 🇺🇸 美国C | 中转, server: gdyd2.ddns.tjiasu.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/shop, ws-headers: {Host: shopv3.ddns.tjiasu.xyz}}
-  - {name: 🇺🇸 美国D | 中转, server: aga.ddns.tjiasu.xyz, port: 443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/usdt, ws-headers: {Host: usdt.ddns.tjiasu.xyz}}
-  - {name: 🇺🇸 美国E | 中转, server: gdfs.ddns.tjiasu.xyz, port: 11109, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/usee, ws-headers: {Host: usee.ddns.tjiasu.xyz}}
-  - {name: 🇺🇸 美国F | 中转, server: gdfs.ddns.tjiasu.xyz, port: 11109, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/ssqq, ws-headers: {Host: ssqq.ddns.tjiasu.xyz}}
-  - {name: 🇩🇪 德国A | 直连, server: deaa.ddns.tjiasu.xyz, port: 11130, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/deaa, ws-headers: {Host: deaa.ddns.tjiasu.xyz}}
-  - {name: 🇩🇪 德国A | 中转, server: xzlt2.ddns.tjiasu.xyz, port: 11444, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/deaa, ws-headers: {Host: deaa.ddns.tjiasu.xyz}}
-  - {name: 🇫🇷 法国A | 直连, server: 15.236.122.194, port: 11130, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/fra1, ws-headers: {Host: fra1.ddns.tjiasu.xyz}}
-  - {name: 🇫🇷 法国A | 中转, server: xzlt2.ddns.tjiasu.xyz, port: 11444, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /api/fra1, ws-headers: {Host: fra1.ddns.tjiasu.xyz}}
+  - {name: Denmark🇩🇰-❇️BN_CHANLL, server: 193.29.107.221, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇨🇳 CN_246, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
+  - {name: 🇺🇸 美国 ITL - 镇江电信, server: zjct1.heiyingsb.xyz, port: 32425, type: ss, cipher: aes-256-gcm, password: XZ3pyiterww, plugin: obfs, plugin-opts: {mode: http, host: 79fd64280.download.windowsupdate.com}}
+  - {name: 🇯🇵 t.me/ThorHCC日本V2节点, server: c5s4.jamjams.net, port: 33289, type: vmess, uuid: 32f0326f-322e-442c-8c3f-fae78f68e3bc, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false}
+  - {name: US 🇺🇸 Los Angeles 4, server: 138.199.9.202, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 An0nymousteam233, server: 193.176.86.197, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
