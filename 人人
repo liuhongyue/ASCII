@@ -4,3 +4,4 @@ proxies:
 
   - {name: IN_417 | 6.82Mb, server: 103.39.132.189, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
   - {name: IN_410 |30.61Mb, server: 103.39.132.189, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: AZ1-@Bn_Chanll, server: 62.212.239.51, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
