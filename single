@@ -1,3 +1,11 @@
 proxies:
+
   - {name: Denmark🇩🇰-❇️BN_CHANLL, server: 193.29.107.221, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇯🇵 t.me/ThorHCC日本V2节点, server: c5s4.jamjams.net, port: 33289, type: vmess, uuid: 32f0326f-322e-442c-8c3f-fae78f68e3bc, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇸 An0nymousteam233, server: 193.176.86.197, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: (@proSSH)Denmark 2, server: 37.120.194.125, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: (@proSSH)Denmark 4, server: 37.120.194.125, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: (@proSSH)Slovakia 2, server: 37.120.221.5, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: (@proSSH)Slovakia 4, server: 37.120.221.5, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+
 
