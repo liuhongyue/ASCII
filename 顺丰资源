@@ -14,7 +14,10 @@ proxies:
   - {name: ★白嫖联盟★---12, server: 45.134.224.3, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
   - {name: ★白嫖联盟★---13, server: 31.171.154.221, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: ★白嫖联盟★---14, server: 143.244.60.172, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-
+  
+  - {name: 电报频道t.me/HCJS_8, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 406461004633866240, password: e65ccc88-ef21-4de6-a538-0d35e35a903f, tls: true, skip-cert-verify: false}
+  - {name: 一键连订阅, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 406461004633866240, password: e65ccc88-ef21-4de6-a538-0d35e35a903f, tls: true, skip-cert-verify: false}
+  - {name: 🇸🇬 t.me/HCJS_8新加坡金沙湾节点, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 406461004633866240, password: e65ccc88-ef21-4de6-a538-0d35e35a903f, tls: true, skip-cert-verify: false}
 
   - {name: 顺丰资源Youtube, server: 199.10.64.165, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 顺丰资源Youtube 2, server: 212.102.44.88, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
