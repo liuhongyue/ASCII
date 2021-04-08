@@ -1,13 +1,9 @@
 proxies:
 
-  - {name: 🇰🇷 翻墙会_韩国7_自费  电报频道：https://t.me/cnhumanright99, server: bigsur.cf, port: 443, type: vmess, uuid: 54d48b3e-89f5-11eb-a57d-560003426bdc, alterId: 12, cipher: auto, tls: true, network: ws, ws-path: /wyCnX5Dc/, ws-headers: {Host: bigsur.cf}}
-  - {name: 🇨🇳 翻墙会_seoul_2_自费：电报频道：https://t.me/cnhumanright99, server: fuckxijinping.ga, port: 443, type: trojan, password: 389675ea-fd45-4ccd-be25-4df4dbe8ad7f, sni: fuckxijinping.ga}
-
   - {name: IN_417 | 6.82Mb, server: 103.39.132.189, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
   - {name: IN_410 |30.61Mb, server: 103.39.132.189, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: AZ1-@Bn_Chanll, server: 62.212.239.51, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   
-    - {name: 顺丰资源Youtube, server: 212.102.35.211, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 顺丰资源Youtube 2, server: 89.187.168.44, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 顺丰资源Youtube_🇸🇰SK, server: 37.120.221.5, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
   - {name: 顺丰资源Youtube 3, server: 212.102.44.88, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
