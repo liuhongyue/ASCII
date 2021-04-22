@@ -5,47 +5,31 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 顺丰资源Youtube, server: 141.98.118.174, port: 12730, type: ss, cipher: aes-256-gcm, password: LppJrnZyfXuS}
-  - {name: 顺丰资源Youtube 2, server: 91.90.123.171, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 顺丰资源Youtube 3, server: 185.141.206.206, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 顺丰资源Youtube 4, server: 185.174.159.51, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 5, server: 193.29.107.93, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 6, server: 199.10.64.165, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
-  - {name: 顺丰资源Youtube 7, server: 86.106.137.149, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 顺丰资源Youtube 8, server: 185.141.206.206, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 顺丰资源Youtube 9, server: 86.106.137.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 10, server: 194.87.215.57, port: 17219, type: vmess, uuid: b3c1db3d-44df-42ca-8781-10eb527a8417, alterId: 0, cipher: auto, tls: false}
-  - {name: 顺丰资源Youtube 11, server: 173.237.207.44, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 12, server: 172.98.78.227, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 13, server: 143.244.60.169, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 14, server: 45.130.137.3, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 顺丰资源Youtube 15, server: 172.93.146.212, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 顺丰资源Youtube 16, server: 184.170.250.152, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 17, server: 64.44.42.164, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 顺丰资源Youtube 18, server: 176.222.34.113, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 19, server: 89.187.168.44, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 20, server: 5.133.8.115, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 21, server: 66.115.182.77, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 顺丰资源Youtube 22, server: 185.108.105.174, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 顺丰资源Youtube 23, server: 87.239.254.18, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 顺丰资源Youtube 24, server: 212.102.44.71, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 🇺🇸 顺丰资源Youtube_🇺🇸US, server: 98.142.220.37, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 25, server: 91.205.230.168, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 26, server: 37.120.194.163, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 27, server: 104.244.210.139, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 28, server: 195.47.194.70, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 29, server: 195.181.171.243, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 30, server: 5.133.8.117, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 31, server: 196.244.191.35, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 顺丰资源Youtube 32, server: 91.90.123.171, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: 顺丰资源Youtube 33, server: 66.115.182.77, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 顺丰资源Youtube 34, server: 212.102.44.93, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 顺丰资源Youtube 35, server: 194.110.115.75, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
-  - {name: 顺丰资源Youtube 36, server: 64.44.42.164, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 顺丰资源Youtube 37, server: 66.115.182.77, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 顺丰资源Youtube 38, server: 212.102.44.81, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 顺丰资源Youtube 39, server: 91.90.123.171, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 顺丰资源Youtube 40, server: 185.124.240.149, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 顺丰资源Youtube, server: 195.181.171.241, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 顺丰资源Youtube 2, server: 91.90.123.171, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 顺丰资源Youtube 3, server: 185.174.159.51, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 顺丰资源Youtube 4, server: 45.130.137.14, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 顺丰资源Youtube 5, server: 91.90.123.171, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 顺丰资源Youtube 6, server: 91.90.123.171, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 顺丰资源Youtube 7, server: 217.138.222.53, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 顺丰资源Youtube 8, server: 194.110.115.245, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: 顺丰资源Youtube 9, server: 212.102.61.130, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 顺丰资源Youtube 10, server: 91.90.123.171, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 顺丰资源Youtube 11, server: 91.90.123.171, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 顺丰资源Youtube 12, server: 89.187.168.49, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 顺丰资源Youtube 13, server: 86.106.137.149, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 顺丰资源Youtube 14, server: 185.108.105.182, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 顺丰资源Youtube 15, server: 91.90.123.171, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 顺丰资源Youtube 16, server: 85.10.50.164, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 顺丰资源Youtube 17, server: 91.90.123.171, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 顺丰资源Youtube 18, server: 154.16.93.53, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 顺丰资源Youtube 19, server: 91.90.123.171, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 顺丰资源Youtube 20, server: 199.36.221.85, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 顺丰资源Youtube 21, server: 173.255.209.163, port: 9307, type: ss, cipher: aes-256-gcm, password: FiobCeZoNfz1}
+  - {name: 顺丰资源Youtube 22, server: 180.149.228.147, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: 顺丰资源Youtube 23, server: 91.90.123.171, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 顺丰资源Youtube 24, server: 180.149.231.13, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 顺丰资源Youtube 25, server: 212.102.44.96, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -76,23 +60,7 @@ proxy-groups:
       - 顺丰资源Youtube 22
       - 顺丰资源Youtube 23
       - 顺丰资源Youtube 24
-      - 🇺🇸 顺丰资源Youtube_🇺🇸US
       - 顺丰资源Youtube 25
-      - 顺丰资源Youtube 26
-      - 顺丰资源Youtube 27
-      - 顺丰资源Youtube 28
-      - 顺丰资源Youtube 29
-      - 顺丰资源Youtube 30
-      - 顺丰资源Youtube 31
-      - 顺丰资源Youtube 32
-      - 顺丰资源Youtube 33
-      - 顺丰资源Youtube 34
-      - 顺丰资源Youtube 35
-      - 顺丰资源Youtube 36
-      - 顺丰资源Youtube 37
-      - 顺丰资源Youtube 38
-      - 顺丰资源Youtube 39
-      - 顺丰资源Youtube 40
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -122,23 +90,7 @@ proxy-groups:
       - 顺丰资源Youtube 22
       - 顺丰资源Youtube 23
       - 顺丰资源Youtube 24
-      - 🇺🇸 顺丰资源Youtube_🇺🇸US
       - 顺丰资源Youtube 25
-      - 顺丰资源Youtube 26
-      - 顺丰资源Youtube 27
-      - 顺丰资源Youtube 28
-      - 顺丰资源Youtube 29
-      - 顺丰资源Youtube 30
-      - 顺丰资源Youtube 31
-      - 顺丰资源Youtube 32
-      - 顺丰资源Youtube 33
-      - 顺丰资源Youtube 34
-      - 顺丰资源Youtube 35
-      - 顺丰资源Youtube 36
-      - 顺丰资源Youtube 37
-      - 顺丰资源Youtube 38
-      - 顺丰资源Youtube 39
-      - 顺丰资源Youtube 40
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -169,23 +121,7 @@ proxy-groups:
       - 顺丰资源Youtube 22
       - 顺丰资源Youtube 23
       - 顺丰资源Youtube 24
-      - 🇺🇸 顺丰资源Youtube_🇺🇸US
       - 顺丰资源Youtube 25
-      - 顺丰资源Youtube 26
-      - 顺丰资源Youtube 27
-      - 顺丰资源Youtube 28
-      - 顺丰资源Youtube 29
-      - 顺丰资源Youtube 30
-      - 顺丰资源Youtube 31
-      - 顺丰资源Youtube 32
-      - 顺丰资源Youtube 33
-      - 顺丰资源Youtube 34
-      - 顺丰资源Youtube 35
-      - 顺丰资源Youtube 36
-      - 顺丰资源Youtube 37
-      - 顺丰资源Youtube 38
-      - 顺丰资源Youtube 39
-      - 顺丰资源Youtube 40
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -220,23 +156,7 @@ proxy-groups:
       - 顺丰资源Youtube 22
       - 顺丰资源Youtube 23
       - 顺丰资源Youtube 24
-      - 🇺🇸 顺丰资源Youtube_🇺🇸US
       - 顺丰资源Youtube 25
-      - 顺丰资源Youtube 26
-      - 顺丰资源Youtube 27
-      - 顺丰资源Youtube 28
-      - 顺丰资源Youtube 29
-      - 顺丰资源Youtube 30
-      - 顺丰资源Youtube 31
-      - 顺丰资源Youtube 32
-      - 顺丰资源Youtube 33
-      - 顺丰资源Youtube 34
-      - 顺丰资源Youtube 35
-      - 顺丰资源Youtube 36
-      - 顺丰资源Youtube 37
-      - 顺丰资源Youtube 38
-      - 顺丰资源Youtube 39
-      - 顺丰资源Youtube 40
   - name: 📲 电报信息
     type: select
     proxies:
@@ -266,23 +186,7 @@ proxy-groups:
       - 顺丰资源Youtube 22
       - 顺丰资源Youtube 23
       - 顺丰资源Youtube 24
-      - 🇺🇸 顺丰资源Youtube_🇺🇸US
       - 顺丰资源Youtube 25
-      - 顺丰资源Youtube 26
-      - 顺丰资源Youtube 27
-      - 顺丰资源Youtube 28
-      - 顺丰资源Youtube 29
-      - 顺丰资源Youtube 30
-      - 顺丰资源Youtube 31
-      - 顺丰资源Youtube 32
-      - 顺丰资源Youtube 33
-      - 顺丰资源Youtube 34
-      - 顺丰资源Youtube 35
-      - 顺丰资源Youtube 36
-      - 顺丰资源Youtube 37
-      - 顺丰资源Youtube 38
-      - 顺丰资源Youtube 39
-      - 顺丰资源Youtube 40
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -313,23 +217,7 @@ proxy-groups:
       - 顺丰资源Youtube 22
       - 顺丰资源Youtube 23
       - 顺丰资源Youtube 24
-      - 🇺🇸 顺丰资源Youtube_🇺🇸US
       - 顺丰资源Youtube 25
-      - 顺丰资源Youtube 26
-      - 顺丰资源Youtube 27
-      - 顺丰资源Youtube 28
-      - 顺丰资源Youtube 29
-      - 顺丰资源Youtube 30
-      - 顺丰资源Youtube 31
-      - 顺丰资源Youtube 32
-      - 顺丰资源Youtube 33
-      - 顺丰资源Youtube 34
-      - 顺丰资源Youtube 35
-      - 顺丰资源Youtube 36
-      - 顺丰资源Youtube 37
-      - 顺丰资源Youtube 38
-      - 顺丰资源Youtube 39
-      - 顺丰资源Youtube 40
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -369,23 +257,7 @@ proxy-groups:
       - 顺丰资源Youtube 22
       - 顺丰资源Youtube 23
       - 顺丰资源Youtube 24
-      - 🇺🇸 顺丰资源Youtube_🇺🇸US
       - 顺丰资源Youtube 25
-      - 顺丰资源Youtube 26
-      - 顺丰资源Youtube 27
-      - 顺丰资源Youtube 28
-      - 顺丰资源Youtube 29
-      - 顺丰资源Youtube 30
-      - 顺丰资源Youtube 31
-      - 顺丰资源Youtube 32
-      - 顺丰资源Youtube 33
-      - 顺丰资源Youtube 34
-      - 顺丰资源Youtube 35
-      - 顺丰资源Youtube 36
-      - 顺丰资源Youtube 37
-      - 顺丰资源Youtube 38
-      - 顺丰资源Youtube 39
-      - 顺丰资源Youtube 40
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
