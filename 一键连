@@ -1,8 +1,7 @@
 proxies:
 
-  - {name: 电报频道t.me/HCJS_8, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 406461004633866240, password: e65ccc88-ef21-4de6-a538-0d35e35a903f, tls: true, skip-cert-verify: false}
-  - {name: 一键连订阅, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 406461004633866240, password: e65ccc88-ef21-4de6-a538-0d35e35a903f, tls: true, skip-cert-verify: false}
-  - {name: 不能用进群获取, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: 406461004633866240, password: e65ccc88-ef21-4de6-a538-0d35e35a903f, tls: true, skip-cert-verify: false}
-  - {name: 🇸🇬 t.me/HCJS_8新加坡金沙湾节点, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 406461004633866240, password: e65ccc88-ef21-4de6-a538-0d35e35a903f, tls: true, skip-cert-verify: false}
-
+  - {name: 🇭🇰 香港1, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: 438004287914639360, password: c78c70a4-ef71-4c8c-86ce-32231e924fb0, tls: true, skip-cert-verify: false}
+  - {name: 🇭🇰 香港2, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: 438004287914639360, password: c78c70a4-ef71-4c8c-86ce-32231e924fb0, tls: true, skip-cert-verify: false}
+  - {name: 🇭🇰 香港3, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: 438004287914639360, password: c78c70a4-ef71-4c8c-86ce-32231e924fb0, tls: true, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡1, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: 438004287914639360, password: c78c70a4-ef71-4c8c-86ce-32231e924fb0, tls: true, skip-cert-verify: false}
 
