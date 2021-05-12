@@ -24,3 +24,4 @@ proxies:
   - {name: 🇨🇳 TW_2.58.242.43:49339, server: 2.58.242.43, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
   - {name: 🇨🇳 TW_2.58.242.43:40093, server: 2.58.242.43, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 🇨🇳 TW_2.58.242.43:38620, server: 2.58.242.43, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  
