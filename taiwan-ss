@@ -24,4 +24,348 @@ proxies:
   - {name: 🇨🇳 TW_2.58.242.43:49339, server: 2.58.242.43, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
   - {name: 🇨🇳 TW_2.58.242.43:40093, server: 2.58.242.43, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 🇨🇳 TW_2.58.242.43:38620, server: 2.58.242.43, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+
+#TG@subssr
+
+  - {name: O7Y0香港_1_4000G, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0香港_2, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0香港_3, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0香港_4, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0香港_5, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0日本_1, server: ap1-jp.er3.xyz, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0日本_2, server: ap1-jp.er3.xyz, port: 29982, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0日本_3, server: ap1-jp.er3.xyz, port: 29983, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0日本_4, server: ap1-jp.er3.xyz, port: 29984, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0日本_5, server: ap1-jp.er3.xyz, port: 29985, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0日本_6, server: ap1-jp.er3.xyz, port: 29986, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0日本_7, server: ap1-jp.er3.xyz, port: 29987, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0日本_8, server: ap1-jp.er3.xyz, port: 29988, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0新加坡_1, server: ap1-sg.er3.xyz, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0新加坡_2, server: ap1-sg.er3.xyz, port: 29982, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0新加坡_3, server: ap1-sg.er3.xyz, port: 29983, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0新加坡_4, server: ap1-sg.er3.xyz, port: 29984, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0新加坡_5, server: ap1-sg.er3.xyz, port: 29985, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0新加坡_6, server: ap1-sg.er3.xyz, port: 29986, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0新加坡_7, server: ap1-sg.er3.xyz, port: 29987, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0新加坡_8, server: ap1-sg.er3.xyz, port: 29988, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0美国_1, server: ap1-us.er3.xyz, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0美国_2, server: ap1-us.er3.xyz, port: 29982, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0美国_3, server: ap1-us.er3.xyz, port: 29983, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0美国_4, server: ap1-us.er3.xyz, port: 29984, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0美国_5, server: ap1-us.er3.xyz, port: 29985, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0美国_6, server: ap1-us.er3.xyz, port: 29986, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0美国_7, server: ap1-us.er3.xyz, port: 29987, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0美国_8, server: ap1-us.er3.xyz, port: 29988, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0英国_1, server: ap1-uk.er3.xyz, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0英国_2, server: ap1-uk.er3.xyz, port: 29982, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0英国_3, server: ap1-uk.er3.xyz, port: 29983, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0英国_4, server: ap1-uk.er3.xyz, port: 29984, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0英国_5, server: ap1-uk.er3.xyz, port: 29985, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0英国_6, server: ap1-uk.er3.xyz, port: 29986, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0英国_7, server: ap1-uk.er3.xyz, port: 29987, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0英国_8, server: ap1-uk.er3.xyz, port: 29988, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0加拿大_1, server: ap1-ca.er3.xyz, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0加拿大_2, server: ap1-ca.er3.xyz, port: 29982, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0加拿大_3, server: ap1-ca.er3.xyz, port: 29983, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0加拿大_4, server: ap1-ca.er3.xyz, port: 29984, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0加拿大_5, server: ap1-ca.er3.xyz, port: 29985, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0加拿大_6, server: ap1-ca.er3.xyz, port: 29986, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0加拿大_7, server: ap1-ca.er3.xyz, port: 29987, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0加拿大_8, server: ap1-ca.er3.xyz, port: 29988, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0澳洲_1, server: ap1-au.er3.xyz, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0澳洲_2, server: ap1-au.er3.xyz, port: 29982, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0澳洲_3, server: ap1-au.er3.xyz, port: 29983, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0澳洲_4, server: ap1-au.er3.xyz, port: 29984, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0澳洲_5, server: ap1-au.er3.xyz, port: 29985, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0澳洲_6, server: ap1-au.er3.xyz, port: 29986, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0澳洲_7, server: ap1-au.er3.xyz, port: 29987, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0澳洲_8, server: ap1-au.er3.xyz, port: 29988, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_1香港, server: global.ap.fastqvpn.com, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_1澳洲, server: global.ap.fastqvpn.com, port: 29982, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_1加拿大, server: global.ap.fastqvpn.com, port: 29983, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_1德国, server: global.ap.fastqvpn.com, port: 29984, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_1日本, server: global.ap.fastqvpn.com, port: 29985, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_1新加坡, server: global.ap.fastqvpn.com, port: 29986, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_1英国, server: global.ap.fastqvpn.com, port: 29987, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_1美国, server: global.ap.fastqvpn.com, port: 29988, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_2香港, server: tx.wy.fastqvpn.com, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_2澳洲, server: tx.wy.fastqvpn.com, port: 29982, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_2加拿大, server: tx.wy.fastqvpn.com, port: 29983, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_2德国, server: tx.wy.fastqvpn.com, port: 29984, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_2日本, server: tx.wy.fastqvpn.com, port: 29985, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_2新加坡, server: tx.wy.fastqvpn.com, port: 29986, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_2英国, server: tx.wy.fastqvpn.com, port: 29987, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_2美国, server: tx.wy.fastqvpn.com, port: 29988, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_3香港, server: a1.er3.xyz, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_3澳洲, server: a1.er3.xyz, port: 29982, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_3加拿大, server: a1.er3.xyz, port: 29983, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_3德国, server: a1.er3.xyz, port: 29984, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_3日本, server: a1.er3.xyz, port: 29985, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_3新加坡, server: a1.er3.xyz, port: 29986, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_3英国, server: a1.er3.xyz, port: 29987, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_3美国, server: a1.er3.xyz, port: 29988, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_4香港, server: ap1-ge.er3.xyz, port: 29980, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_4澳洲, server: ap1-ge.er3.xyz, port: 29982, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_4加拿大, server: ap1-ge.er3.xyz, port: 29983, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_4德国, server: ap1-ge.er3.xyz, port: 29984, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_4日本, server: ap1-ge.er3.xyz, port: 29985, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_4新加坡, server: ap1-ge.er3.xyz, port: 29986, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_4英国, server: ap1-ge.er3.xyz, port: 29987, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y0_4美国, server: ap1-ge.er3.xyz, port: 29988, type: http, username: "442850138562494464", password: 9a13c6af-118b-4740-99b8-95aca992fb0d, tls: true, skip-cert-verify: true}
+  - {name: O7Y1香港_1_1000G, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1香港_2, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1香港_3, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1香港_4, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1香港_5, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1日本_1, server: ap1-jp.er3.xyz, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1日本_2, server: ap1-jp.er3.xyz, port: 29982, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1日本_3, server: ap1-jp.er3.xyz, port: 29983, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1日本_4, server: ap1-jp.er3.xyz, port: 29984, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1日本_5, server: ap1-jp.er3.xyz, port: 29985, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1日本_6, server: ap1-jp.er3.xyz, port: 29986, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1日本_7, server: ap1-jp.er3.xyz, port: 29987, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1日本_8, server: ap1-jp.er3.xyz, port: 29988, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1新加坡_1, server: ap1-sg.er3.xyz, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1新加坡_2, server: ap1-sg.er3.xyz, port: 29982, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1新加坡_3, server: ap1-sg.er3.xyz, port: 29983, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1新加坡_4, server: ap1-sg.er3.xyz, port: 29984, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1新加坡_5, server: ap1-sg.er3.xyz, port: 29985, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1新加坡_6, server: ap1-sg.er3.xyz, port: 29986, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1新加坡_7, server: ap1-sg.er3.xyz, port: 29987, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1新加坡_8, server: ap1-sg.er3.xyz, port: 29988, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1美国_1, server: ap1-us.er3.xyz, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1美国_2, server: ap1-us.er3.xyz, port: 29982, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1美国_3, server: ap1-us.er3.xyz, port: 29983, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1美国_4, server: ap1-us.er3.xyz, port: 29984, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1美国_5, server: ap1-us.er3.xyz, port: 29985, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1美国_6, server: ap1-us.er3.xyz, port: 29986, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1美国_7, server: ap1-us.er3.xyz, port: 29987, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1美国_8, server: ap1-us.er3.xyz, port: 29988, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1英国_1, server: ap1-uk.er3.xyz, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1英国_2, server: ap1-uk.er3.xyz, port: 29982, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1英国_3, server: ap1-uk.er3.xyz, port: 29983, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1英国_4, server: ap1-uk.er3.xyz, port: 29984, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1英国_5, server: ap1-uk.er3.xyz, port: 29985, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1英国_6, server: ap1-uk.er3.xyz, port: 29986, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1英国_7, server: ap1-uk.er3.xyz, port: 29987, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1英国_8, server: ap1-uk.er3.xyz, port: 29988, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1加拿大_1, server: ap1-ca.er3.xyz, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1加拿大_2, server: ap1-ca.er3.xyz, port: 29982, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1加拿大_3, server: ap1-ca.er3.xyz, port: 29983, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1加拿大_4, server: ap1-ca.er3.xyz, port: 29984, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1加拿大_5, server: ap1-ca.er3.xyz, port: 29985, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1加拿大_6, server: ap1-ca.er3.xyz, port: 29986, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1加拿大_7, server: ap1-ca.er3.xyz, port: 29987, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1加拿大_8, server: ap1-ca.er3.xyz, port: 29988, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1澳洲_1, server: ap1-au.er3.xyz, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1澳洲_2, server: ap1-au.er3.xyz, port: 29982, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1澳洲_3, server: ap1-au.er3.xyz, port: 29983, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1澳洲_4, server: ap1-au.er3.xyz, port: 29984, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1澳洲_5, server: ap1-au.er3.xyz, port: 29985, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1澳洲_6, server: ap1-au.er3.xyz, port: 29986, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1澳洲_7, server: ap1-au.er3.xyz, port: 29987, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1澳洲_8, server: ap1-au.er3.xyz, port: 29988, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_1香港, server: global.ap.fastqvpn.com, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_1澳洲, server: global.ap.fastqvpn.com, port: 29982, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_1加拿大, server: global.ap.fastqvpn.com, port: 29983, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_1德国, server: global.ap.fastqvpn.com, port: 29984, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_1日本, server: global.ap.fastqvpn.com, port: 29985, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_1新加坡, server: global.ap.fastqvpn.com, port: 29986, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_1英国, server: global.ap.fastqvpn.com, port: 29987, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_1美国, server: global.ap.fastqvpn.com, port: 29988, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_2香港, server: tx.wy.fastqvpn.com, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_2澳洲, server: tx.wy.fastqvpn.com, port: 29982, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_2加拿大, server: tx.wy.fastqvpn.com, port: 29983, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_2德国, server: tx.wy.fastqvpn.com, port: 29984, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_2日本, server: tx.wy.fastqvpn.com, port: 29985, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_2新加坡, server: tx.wy.fastqvpn.com, port: 29986, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_2英国, server: tx.wy.fastqvpn.com, port: 29987, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_2美国, server: tx.wy.fastqvpn.com, port: 29988, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_3香港, server: a1.er3.xyz, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_3澳洲, server: a1.er3.xyz, port: 29982, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_3加拿大, server: a1.er3.xyz, port: 29983, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_3德国, server: a1.er3.xyz, port: 29984, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_3日本, server: a1.er3.xyz, port: 29985, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_3新加坡, server: a1.er3.xyz, port: 29986, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_3英国, server: a1.er3.xyz, port: 29987, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_3美国, server: a1.er3.xyz, port: 29988, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_4香港, server: ap1-ge.er3.xyz, port: 29980, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_4澳洲, server: ap1-ge.er3.xyz, port: 29982, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_4加拿大, server: ap1-ge.er3.xyz, port: 29983, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_4德国, server: ap1-ge.er3.xyz, port: 29984, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_4日本, server: ap1-ge.er3.xyz, port: 29985, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_4新加坡, server: ap1-ge.er3.xyz, port: 29986, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_4英国, server: ap1-ge.er3.xyz, port: 29987, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: O7Y1_4美国, server: ap1-ge.er3.xyz, port: 29988, type: http, username: "427156450255568896", password: ff4a3b1b-189c-4489-b304-3ebc60e50b48, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0香港_1_2000G, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0香港_2, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0香港_3, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0香港_4, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0香港_5, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0日本_1, server: ap1-jp.er3.xyz, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0日本_2, server: ap1-jp.er3.xyz, port: 29982, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0日本_3, server: ap1-jp.er3.xyz, port: 29983, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0日本_4, server: ap1-jp.er3.xyz, port: 29984, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0日本_5, server: ap1-jp.er3.xyz, port: 29985, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0日本_6, server: ap1-jp.er3.xyz, port: 29986, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0日本_7, server: ap1-jp.er3.xyz, port: 29987, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0日本_8, server: ap1-jp.er3.xyz, port: 29988, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0新加坡_1, server: ap1-sg.er3.xyz, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0新加坡_2, server: ap1-sg.er3.xyz, port: 29982, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0新加坡_3, server: ap1-sg.er3.xyz, port: 29983, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0新加坡_4, server: ap1-sg.er3.xyz, port: 29984, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0新加坡_5, server: ap1-sg.er3.xyz, port: 29985, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0新加坡_6, server: ap1-sg.er3.xyz, port: 29986, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0新加坡_7, server: ap1-sg.er3.xyz, port: 29987, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0新加坡_8, server: ap1-sg.er3.xyz, port: 29988, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0美国_1, server: ap1-us.er3.xyz, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0美国_2, server: ap1-us.er3.xyz, port: 29982, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0美国_3, server: ap1-us.er3.xyz, port: 29983, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0美国_4, server: ap1-us.er3.xyz, port: 29984, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0美国_5, server: ap1-us.er3.xyz, port: 29985, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0美国_6, server: ap1-us.er3.xyz, port: 29986, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0美国_7, server: ap1-us.er3.xyz, port: 29987, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0美国_8, server: ap1-us.er3.xyz, port: 29988, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0英国_1, server: ap1-uk.er3.xyz, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0英国_2, server: ap1-uk.er3.xyz, port: 29982, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0英国_3, server: ap1-uk.er3.xyz, port: 29983, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0英国_4, server: ap1-uk.er3.xyz, port: 29984, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0英国_5, server: ap1-uk.er3.xyz, port: 29985, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0英国_6, server: ap1-uk.er3.xyz, port: 29986, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0英国_7, server: ap1-uk.er3.xyz, port: 29987, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0英国_8, server: ap1-uk.er3.xyz, port: 29988, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0加拿大_1, server: ap1-ca.er3.xyz, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0加拿大_2, server: ap1-ca.er3.xyz, port: 29982, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0加拿大_3, server: ap1-ca.er3.xyz, port: 29983, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0加拿大_4, server: ap1-ca.er3.xyz, port: 29984, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0加拿大_5, server: ap1-ca.er3.xyz, port: 29985, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0加拿大_6, server: ap1-ca.er3.xyz, port: 29986, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0加拿大_7, server: ap1-ca.er3.xyz, port: 29987, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0加拿大_8, server: ap1-ca.er3.xyz, port: 29988, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0澳洲_1, server: ap1-au.er3.xyz, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0澳洲_2, server: ap1-au.er3.xyz, port: 29982, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0澳洲_3, server: ap1-au.er3.xyz, port: 29983, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0澳洲_4, server: ap1-au.er3.xyz, port: 29984, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0澳洲_5, server: ap1-au.er3.xyz, port: 29985, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0澳洲_6, server: ap1-au.er3.xyz, port: 29986, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0澳洲_7, server: ap1-au.er3.xyz, port: 29987, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0澳洲_8, server: ap1-au.er3.xyz, port: 29988, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_1香港, server: global.ap.fastqvpn.com, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_1澳洲, server: global.ap.fastqvpn.com, port: 29982, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_1加拿大, server: global.ap.fastqvpn.com, port: 29983, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_1德国, server: global.ap.fastqvpn.com, port: 29984, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_1日本, server: global.ap.fastqvpn.com, port: 29985, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_1新加坡, server: global.ap.fastqvpn.com, port: 29986, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_1英国, server: global.ap.fastqvpn.com, port: 29987, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_1美国, server: global.ap.fastqvpn.com, port: 29988, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_2香港, server: tx.wy.fastqvpn.com, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_2澳洲, server: tx.wy.fastqvpn.com, port: 29982, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_2加拿大, server: tx.wy.fastqvpn.com, port: 29983, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_2德国, server: tx.wy.fastqvpn.com, port: 29984, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_2日本, server: tx.wy.fastqvpn.com, port: 29985, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_2新加坡, server: tx.wy.fastqvpn.com, port: 29986, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_2英国, server: tx.wy.fastqvpn.com, port: 29987, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_2美国, server: tx.wy.fastqvpn.com, port: 29988, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_3香港, server: a1.er3.xyz, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_3澳洲, server: a1.er3.xyz, port: 29982, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_3加拿大, server: a1.er3.xyz, port: 29983, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_3德国, server: a1.er3.xyz, port: 29984, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_3日本, server: a1.er3.xyz, port: 29985, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_3新加坡, server: a1.er3.xyz, port: 29986, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_3英国, server: a1.er3.xyz, port: 29987, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_3美国, server: a1.er3.xyz, port: 29988, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_4香港, server: ap1-ge.er3.xyz, port: 29980, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_4澳洲, server: ap1-ge.er3.xyz, port: 29982, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_4加拿大, server: ap1-ge.er3.xyz, port: 29983, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_4德国, server: ap1-ge.er3.xyz, port: 29984, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_4日本, server: ap1-ge.er3.xyz, port: 29985, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_4新加坡, server: ap1-ge.er3.xyz, port: 29986, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_4英国, server: ap1-ge.er3.xyz, port: 29987, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: d0_o_0_4美国, server: ap1-ge.er3.xyz, port: 29988, type: http, username: "442315872392970240", password: a79563e0-cf4d-4905-a88b-4c466f47b8a2, tls: true, skip-cert-verify: true}
+  - {name: pannio香港_1_703G, server: a1.ap.fastqvpn.com, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio香港_2, server: a2.ap.fastqvpn.com, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio香港_3, server: a3.ap.fastqvpn.com, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio香港_4, server: a4.ap.fastqvpn.com, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio香港_5, server: a5.ap.fastqvpn.com, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio日本_1, server: ap1-jp.er3.xyz, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio日本_2, server: ap1-jp.er3.xyz, port: 29982, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio日本_3, server: ap1-jp.er3.xyz, port: 29983, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio日本_4, server: ap1-jp.er3.xyz, port: 29984, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio日本_5, server: ap1-jp.er3.xyz, port: 29985, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio日本_6, server: ap1-jp.er3.xyz, port: 29986, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio日本_7, server: ap1-jp.er3.xyz, port: 29987, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio日本_8, server: ap1-jp.er3.xyz, port: 29988, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio新加坡_1, server: ap1-sg.er3.xyz, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio新加坡_2, server: ap1-sg.er3.xyz, port: 29982, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio新加坡_3, server: ap1-sg.er3.xyz, port: 29983, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio新加坡_4, server: ap1-sg.er3.xyz, port: 29984, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio新加坡_5, server: ap1-sg.er3.xyz, port: 29985, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio新加坡_6, server: ap1-sg.er3.xyz, port: 29986, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio新加坡_7, server: ap1-sg.er3.xyz, port: 29987, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio新加坡_8, server: ap1-sg.er3.xyz, port: 29988, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio美国_1, server: ap1-us.er3.xyz, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio美国_2, server: ap1-us.er3.xyz, port: 29982, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio美国_3, server: ap1-us.er3.xyz, port: 29983, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio美国_4, server: ap1-us.er3.xyz, port: 29984, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio美国_5, server: ap1-us.er3.xyz, port: 29985, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio美国_6, server: ap1-us.er3.xyz, port: 29986, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio美国_7, server: ap1-us.er3.xyz, port: 29987, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio美国_8, server: ap1-us.er3.xyz, port: 29988, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio英国_1, server: ap1-uk.er3.xyz, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio英国_2, server: ap1-uk.er3.xyz, port: 29982, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio英国_3, server: ap1-uk.er3.xyz, port: 29983, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio英国_4, server: ap1-uk.er3.xyz, port: 29984, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio英国_5, server: ap1-uk.er3.xyz, port: 29985, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio英国_6, server: ap1-uk.er3.xyz, port: 29986, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio英国_7, server: ap1-uk.er3.xyz, port: 29987, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio英国_8, server: ap1-uk.er3.xyz, port: 29988, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio加拿大_1, server: ap1-ca.er3.xyz, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio加拿大_2, server: ap1-ca.er3.xyz, port: 29982, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio加拿大_3, server: ap1-ca.er3.xyz, port: 29983, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio加拿大_4, server: ap1-ca.er3.xyz, port: 29984, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio加拿大_5, server: ap1-ca.er3.xyz, port: 29985, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio加拿大_6, server: ap1-ca.er3.xyz, port: 29986, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio加拿大_7, server: ap1-ca.er3.xyz, port: 29987, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio加拿大_8, server: ap1-ca.er3.xyz, port: 29988, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio澳洲_1, server: ap1-au.er3.xyz, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio澳洲_2, server: ap1-au.er3.xyz, port: 29982, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio澳洲_3, server: ap1-au.er3.xyz, port: 29983, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio澳洲_4, server: ap1-au.er3.xyz, port: 29984, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio澳洲_5, server: ap1-au.er3.xyz, port: 29985, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio澳洲_6, server: ap1-au.er3.xyz, port: 29986, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio澳洲_7, server: ap1-au.er3.xyz, port: 29987, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio澳洲_8, server: ap1-au.er3.xyz, port: 29988, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_1香港, server: global.ap.fastqvpn.com, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_1澳洲, server: global.ap.fastqvpn.com, port: 29982, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_1加拿大, server: global.ap.fastqvpn.com, port: 29983, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_1德国, server: global.ap.fastqvpn.com, port: 29984, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_1日本, server: global.ap.fastqvpn.com, port: 29985, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_1新加坡, server: global.ap.fastqvpn.com, port: 29986, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_1英国, server: global.ap.fastqvpn.com, port: 29987, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_1美国, server: global.ap.fastqvpn.com, port: 29988, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_2香港, server: tx.wy.fastqvpn.com, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_2澳洲, server: tx.wy.fastqvpn.com, port: 29982, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_2加拿大, server: tx.wy.fastqvpn.com, port: 29983, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_2德国, server: tx.wy.fastqvpn.com, port: 29984, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_2日本, server: tx.wy.fastqvpn.com, port: 29985, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_2新加坡, server: tx.wy.fastqvpn.com, port: 29986, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_2英国, server: tx.wy.fastqvpn.com, port: 29987, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_2美国, server: tx.wy.fastqvpn.com, port: 29988, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_3香港, server: a1.er3.xyz, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_3澳洲, server: a1.er3.xyz, port: 29982, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_3加拿大, server: a1.er3.xyz, port: 29983, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_3德国, server: a1.er3.xyz, port: 29984, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_3日本, server: a1.er3.xyz, port: 29985, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_3新加坡, server: a1.er3.xyz, port: 29986, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_3英国, server: a1.er3.xyz, port: 29987, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_3美国, server: a1.er3.xyz, port: 29988, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_4香港, server: ap1-ge.er3.xyz, port: 29980, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_4澳洲, server: ap1-ge.er3.xyz, port: 29982, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_4加拿大, server: ap1-ge.er3.xyz, port: 29983, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_4德国, server: ap1-ge.er3.xyz, port: 29984, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_4日本, server: ap1-ge.er3.xyz, port: 29985, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_4新加坡, server: ap1-ge.er3.xyz, port: 29986, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_4英国, server: ap1-ge.er3.xyz, port: 29987, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+  - {name: pannio_4美国, server: ap1-ge.er3.xyz, port: 29988, type: http, username: "442956395017408512", password: 5ee28ddd-6102-467a-abc7-93949f686ae8, tls: true, skip-cert-verify: true}
+
   
