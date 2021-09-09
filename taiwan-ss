@@ -1,5 +1,5 @@
 proxies:
-  - {name: 闲鱼|V2ray, server: 156.251.176.228, port: 443, type: vmess, uuid: 39797a7d-5da6-4538-98ed-271f660f5dfb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /8ioCrD, ws-headers: {Host: xianyu.leeroot886.top}}
+  - {name: 闲鱼^_^V2ray, server: 156.251.176.228, port: 443, type: vmess, uuid: 39797a7d-5da6-4538-98ed-271f660f5dfb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /8ioCrD, ws-headers: {Host: xianyu.leeroot886.top}}
 
   - {name: 不良林接口一136, server: 198.2.201.174, port: 443, type: vmess, uuid: ac9d75fa-cdf8-4ace-8012-3fcd9bc989b9, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.82582796.xyz}}
   - {name: 不良林接口一192, server: 45.58.148.46, port: 443, type: vmess, uuid: 910c4255-2442-4ede-9070-6f06b85b32d8, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.17974655.xyz}}
