@@ -1,5 +1,8 @@
 proxies:
- 
+  - {name: 'YouTube订阅【奇少部落】【www.qsbl.site】-1', server: www.qsbl.gq, port: 443, type: trojan, password: 9c71f126-5342-4da3-8650-890f99c5b89a, sni: www.qsbl.gq}
+  - {name: 'YouTube订阅【奇少部落】【www.qsbl.site】-2', server: www.qsbl.ga, port: 443, type: trojan, password: 3230300d-fd1c-468e-89b9-eb2c11bdc9ef, sni: www.qsbl.ga}
+  - {name: 'YouTube订阅【奇少部落】【www.qsbl.site】-3', server: www.qsbl.gq, port: 443, type: trojan, password: 9c71f126-5342-4da3-8650-890f99c5b89a, sni: www.qsbl.gq}
+  - {name: 'YouTube订阅【奇少部落】【www.qsbl.site】-4', server: www.qsbl.gq, port: 443, type: trojan, password: 9c71f126-5342-4da3-8650-890f99c5b89a, sni: www.qsbl.gq}
   - {name: 不良林接口一136, server: 198.2.201.174, port: 443, type: vmess, uuid: ac9d75fa-cdf8-4ace-8012-3fcd9bc989b9, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.82582796.xyz}}
   - {name: 不良林接口一192, server: 45.58.148.46, port: 443, type: vmess, uuid: 910c4255-2442-4ede-9070-6f06b85b32d8, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.17974655.xyz}}
   - {name: 不良林接口一207, server: 154.84.1.60, port: 443, type: vmess, uuid: 6fa560d4-35c5-4968-adfc-812c52878b84, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /footers, ws-headers: {Host: www.57027846.xyz}}
