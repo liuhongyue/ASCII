@@ -9,13 +9,4 @@ proxies:
   - {name: 🇺🇸 (已存活2天)美国-3.23MB/s, server: 167.88.63.11, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇸 (已存活1天)美国-2.84MB/s, server: 212.102.44.86, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
   - {name: (已存活2天)西班牙-2.91MB/s, server: 89.37.95.23, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
-  - {name: 🇺🇸 美国 费利蒙（欢迎使用烧饼哥vpn）, server: 45.79.121.236, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇬🇧 英国伦敦（欢迎使用烧饼哥vpn）技, server: 193.118.60.179, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 美国（欢迎使用烧饼哥vpn）, server: 198.57.27.241, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇰🇷 韩国（欢迎使用烧饼哥vpn）, server: 103.249.31.29, port: 50225, type: ss, cipher: aes-256-gcm, password: J2M953QbkCvvzx3vYWdyBQ4K}
-  - {name: 🇺🇸 美国洛杉矶（欢迎使用烧饼哥vpn）, server: 167.88.63.61, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 美国（欢迎使用烧饼哥vpn） 2, server: 134.195.198.252, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 西班牙5 （欢迎使用烧饼哥vpn）, server: 172.107.233.234, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 美国洛杉矶（欢迎使用烧饼哥vpn） 2, server: 38.107.226.241, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: （欢迎使用烧饼哥vpn）, server: 118.107.244.110, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 洛杉矶（欢迎使用烧饼哥vpn）, server: 172.99.190.109, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+
