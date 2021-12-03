@@ -1,62 +1,12 @@
 proxies:
-  - {name: 'LV2 香港 01 主力线路 NF_1', server: zfd.out01.nodeserver.top, port: 16213, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 香港 02 主力线路 NF_2', server: zfd.out02.nodeserver.top, port: 16214, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 香港 03 主力线路 NF_3', server: zfd.out03.nodeserver.top, port: 16215, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 香港 04 NF_4', server: zfd.out04.nodeserver.top, port: 16216, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 香港 05 NF_5', server: zfd.out01.nodeserver.top, port: 16217, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 香港 06 NF_6', server: zfd.out02.nodeserver.top, port: 16218, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 台湾 01 NF_7', server: zfd.out01.nodeserver.top, port: 16223, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 台湾 02 NF_8', server: zfd.out02.nodeserver.top, port: 16224, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 台湾 03 NF_9', server: zfd.out03.nodeserver.top, port: 16225, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 台湾 04 NF_10', server: zfd.out04.nodeserver.top, port: 16226, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 日本 01 NF_11', server: zfd.out01.nodeserver.top, port: 16207, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 日本 02 NF_12', server: zfd.out02.nodeserver.top, port: 16208, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 日本 03 NF_13', server: zfd.out03.nodeserver.top, port: 16209, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 日本 04 NF_14', server: zfd.out04.nodeserver.top, port: 16210, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 新加坡 01 NF_15', server: zfd.out01.nodeserver.top, port: 16227, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 新加坡 02 NF_16', server: zfd.out02.nodeserver.top, port: 16228, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 新加坡 03 NF_17', server: zfd.out03.nodeserver.top, port: 16229, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 新加坡 04 NF_18', server: zfd.out04.nodeserver.top, port: 16230, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 美国 01 NF_19', server: zfd.out01.nodeserver.top, port: 16203, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 美国 02 NF_20', server: zfd.out02.nodeserver.top, port: 16204, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 美国 03 NF_21', server: zfd.out03.nodeserver.top, port: 16205, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 美国 04 NF_22', server: zfd.out04.nodeserver.top, port: 16206, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 西雅图 01 NF_23', server: zfd.out01.nodeserver.top, port: 16233, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 西雅图 02 NF_24', server: zfd.out02.nodeserver.top, port: 16234, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 西雅图 03 NF_25', server: zfd.out03.nodeserver.top, port: 16235, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 香港动态 01 HGC原生_26', server: zfd.out01.nodeserver.top, port: 16236, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 香港动态 02 HGC原生_27', server: zfd.out02.nodeserver.top, port: 16237, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV2 马来西亚动态 01 MY原生_28', server: zfd.out01.nodeserver.top, port: 16238, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 香港 01 主力线路 NF_29', server: zfd.out01.nodeserver.top, port: 16111, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 香港 02 主力线路 NF_30', server: zfd.out02.nodeserver.top, port: 16112, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 香港 03 主力线路 NF_31', server: zfd.out03.nodeserver.top, port: 16113, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 香港 04 NF_32', server: zfd.out04.nodeserver.top, port: 16114, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 香港 05 NF_33', server: zfd.out01.nodeserver.top, port: 16115, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 香港 06 NF_34', server: zfd.out02.nodeserver.top, port: 16116, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 台湾 01 NF_35', server: zfd.out01.nodeserver.top, port: 16125, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 台湾 02 NF_36', server: zfd.out02.nodeserver.top, port: 16126, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 台湾 03 NF_37', server: zfd.out03.nodeserver.top, port: 16127, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 台湾 04 NF_38', server: zfd.out04.nodeserver.top, port: 16128, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 日本 01 NF_39', server: zfd.out01.nodeserver.top, port: 16119, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 日本 02 NF_40', server: zfd.out02.nodeserver.top, port: 16120, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 日本 03 NF_41', server: zfd.out03.nodeserver.top, port: 16121, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 日本 04 NF_42', server: zfd.out04.nodeserver.top, port: 16122, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 新加坡 01 NF_43', server: zfd.out01.nodeserver.top, port: 16107, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 新加坡 02 NF_44', server: zfd.out02.nodeserver.top, port: 16108, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 新加坡 03 NF_45', server: zfd.out03.nodeserver.top, port: 16109, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 新加坡 04 NF_46', server: zfd.out04.nodeserver.top, port: 16110, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 美国 01 NF_47', server: zfd.out01.nodeserver.top, port: 16103, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 美国 02 NF_48', server: zfd.out02.nodeserver.top, port: 16104, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 美国 03 NF_49', server: zfd.out03.nodeserver.top, port: 16105, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'LV1 美国 04 NF_50', server: zfd.out04.nodeserver.top, port: 16106, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, network: tcp}
-  - {name: 'CYL-科技_1', server: 18.162.143.33, port: 9999, type: vmess, uuid: 6ae2e994-2018-4f9f-a5bb-4639c14ba05f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 18.162.143.33}}
-  - {name: 'sg_2', server: 183.232.149.253, port: 206, type: ss, cipher: aes-128-gcm, password: BpD5FyN7}
-  - {name: '蘑菇+16_3', server: m9.mogu66.com, port: 184, type: ss, cipher: aes-128-gcm, password: HfZ9WtI7}
-  - {name: 'CYL-科技_5', server: 165.22.61.210, port: 21888, type: vmess, uuid: 6ae2e994-2018-4f9f-a5bb-4639c14ba05f, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 165.22.61.210}}
-  - {name: 'github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 16_6', server: 173.82.55.94, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: tls, ws-headers: {Host: www.01787634.xyz}}
-  - {name: 'github.com/freefq - 美国加利福尼亚州洛杉矶MULTACOM数据中心 9_7', server: 96.43.91.59, port: 443, type: vmess, uuid: 3bfb43e2-7dfe-4757-86ee-1ce9fb9fd13a, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: tls, ws-headers: {Host: www.45218443.xyz}}
-  - {name: '🇨🇭+瑞士_8', server: 84.17.53.219, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 'github.com/freefq+-+加拿大++8_9', server: t8.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42}
-  - {name: 'CYL-科技_10', server: 5.39.70.138, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 'CYL-科技_11', server: 66.115.147.89, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 'github.com/freefq+-+俄罗斯++12_12', server: t6.ssrsub.com, port: 8443, type: trojan, password: 40879770-9fd5-461b-928f-7688bfff6e42}
+  - {name: AZ转移动02-27, server: sl201.jdxx.xyz, port: 25986, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
+  - {name: 🇯🇵 日本-移动隧道1-27 3, server: sl201.jdxx.xyz, port: 26386, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
+  - {name: AZ转移动05-27, server: sl201.jdxx.xyz, port: 25989, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
+  - {name: 🇭🇰 HKT转江门2-27 3, server: sl201.jdxx.xyz, port: 35002, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
+  - {name: 🇯🇵 日本-移动隧道1-27, server: sl201.jdxx.xyz, port: 26386, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3935:RZVnik, obfs-param: 0a03d3935.microsoft.com}
+  - {name: 🇭🇰 HKT转江门2-27, server: sl201.jdxx.xyz, port: 35002, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3935:RZVnik, obfs-param: 0a03d3935.microsoft.com}
+  - {name: 国内中专1-27, server: tz-yd01.jdxx.xyz, port: 35008, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3935:RZVnik, obfs-param: 0a03d3935.microsoft.com}
+  - {name: 国内中专2-27, server: tz-yd01.jdxx.xyz, port: 35007, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3935:RZVnik, obfs-param: 0a03d3935.microsoft.com}
+  - {name: 🇷🇺 俄罗斯-隧道中转, server: dog.newhost.cc, port: 10692, type: ssr, cipher: aes-256-cfb, password: TuXJdt, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 18301:rzNMkP, obfs-param: .microsoft.com}
+  - {name: 🇯🇵 日本-移动隧道2-27, server: sl201.jdxx.xyz, port: 26387, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3935:RZVnik, obfs-param: 0a03d3935.microsoft.com}
+  - {name: AZ转移动03-27, server: sl201.jdxx.xyz, port: 25987, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
