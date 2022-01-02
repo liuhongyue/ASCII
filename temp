@@ -1,28 +1,148 @@
 proxies:
-  - {name: 🇯🇵 日本-移动隧道2-27, server: sl201.jdxx.xyz, port: 26387, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3935:RZVnik, obfs-param: 0a03d3935.microsoft.com}
-  - {name: AZ转移动03-27 2, server: sl201.jdxx.xyz, port: 25987, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1620:BfGQJg, obfs-param: 2605b1620.microsoft.com}
-  - {name: 🇭🇰 HKT转江门2-27 3, server: sl201.jdxx.xyz, port: 35002, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
-  - {name: 🇰🇷 韩国-移动隧道5-27, server: sl201.jdxx.xyz, port: 26390, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1620:BfGQJg, obfs-param: 2605b1620.microsoft.com}
-  - {name: 🇯🇵 日本-移动隧道1-27 2, server: sl201.jdxx.xyz, port: 26386, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1620:BfGQJg, obfs-param: 2605b1620.microsoft.com}
-  - {name: AZ转移动02-27, server: sl201.jdxx.xyz, port: 25986, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1620:BfGQJg, obfs-param: 2605b1620.microsoft.com}
-  - {name: AZ转移动04-27, server: sl201.jdxx.xyz, port: 25988, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
-  - {name: AZ转移动02-27 2, server: sl201.jdxx.xyz, port: 25986, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
-  - {name: 🇯🇵 日本-移动隧道2-27 2, server: sl201.jdxx.xyz, port: 26387, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1620:BfGQJg, obfs-param: 2605b1620.microsoft.com}
-  - {name: 🇯🇵 日本-移动隧道1-27 3, server: sl201.jdxx.xyz, port: 26386, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
-  - {name: 🇵🇭 菲律宾 VIP节点(马尼拉)● 2, server: gz1.52168.xyz, port: 1102, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 26901:ggyf3c2qzog, obfs-param: 94d9b26901.baidu.com}
-  - {name: 🇵🇭 菲律宾 免费节点(马尼拉)●, server: gz1.52168.xyz, port: 1101, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 26901:ggyf3c2qzog, obfs-param: 94d9b26901.baidu.com}
-  - {name: 国内中专1-27, server: tz-yd01.jdxx.xyz, port: 35008, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3935:RZVnik, obfs-param: 0a03d3935.microsoft.com}
-  - {name: 🇷🇺 俄罗斯-隧道中转, server: dog.newhost.cc, port: 10692, type: ssr, cipher: aes-256-cfb, password: TuXJdt, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 18301:rzNMkP, obfs-param: .microsoft.com}
-  - {name: 国内中专1-27 2, server: tz-yd01.jdxx.xyz, port: 35008, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
-  - {name: 🇭🇰 HKT转江门2-27, server: sl201.jdxx.xyz, port: 35002, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3935:RZVnik, obfs-param: 0a03d3935.microsoft.com}
-  - {name: 🇭🇰 HKT转江门2-27 2, server: sl201.jdxx.xyz, port: 35002, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1620:BfGQJg, obfs-param: 2605b1620.microsoft.com}
-  - {name: 🇭🇰 香港 VIP节点(HKBN 1G)● 2, server: gz1.52168.xyz, port: 1113, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 26901:ggyf3c2qzog, obfs-param: 94d9b26901.baidu.com}
-  - {name: AZ转移动01-27, server: sl201.jdxx.xyz, port: 25985, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1620:BfGQJg, obfs-param: 2605b1620.microsoft.com}
-  - {name: 国内中专3-27, server: tz-yd01.jdxx.xyz, port: 35006, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
-  - {name: AZ转移动03-27, server: sl201.jdxx.xyz, port: 25987, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
-  - {name: 🇯🇵 日本-移动隧道1-27, server: sl201.jdxx.xyz, port: 26386, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3935:RZVnik, obfs-param: 0a03d3935.microsoft.com}
-  - {name: 国内中专2-27, server: tz-yd01.jdxx.xyz, port: 35007, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3935:RZVnik, obfs-param: 0a03d3935.microsoft.com}
-  - {name: 🇭🇰 HKT转江门4-27, server: sl201.jdxx.xyz, port: 35004, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
-  - {name: 🇯🇵 日本-移动隧道4-27, server: sl201.jdxx.xyz, port: 26389, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1620:BfGQJg, obfs-param: 2605b1620.microsoft.com}
-  - {name: AZ转移动05-27, server: sl201.jdxx.xyz, port: 25989, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
-  - {name: 🇭🇰 HKT转江门1-27, server: sl201.jdxx.xyz, port: 35001, type: ssr, cipher: chacha20-ietf, password: MaOKEa, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 1237:Wa2lOa, obfs-param: b00e31237.microsoft.com}
+  - {name: Relay_ |25.34Mb, server: 183.232.56.110, port: 1501, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 114882:LwdYLj, obfs-param: "", udp: true}
+  - {name: Relay_ |15.22Mb, server: 183.232.56.110, port: 575, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 114882:LwdYLj, obfs-param: t.me/vpnhat, udp: true}
+  - {name: Relay_🇨🇳CN-🇺🇸US_255, server: 183.232.56.110, port: 574, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 114882:LwdYLj, obfs-param: t.me/vpnhat, udp: true}
+  - {name: Relay_ |13.90Mb, server: 183.232.56.110, port: 1203, type: ssr, cipher: chacha20-ietf, password: mtbv8n, protocol: auth_aes128_md5, obfs: plain, protocol-param: 114882:LwdYLj, obfs-param: t.me/vpnhat, udp: true}
+  - {name: AU_19, server: 172.105.180.227, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: Relay_🇨🇳CN-🇺🇸US_250, server: 117.28.243.173, port: 4173, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
+  - {name: Pool_🇭🇰HK_452, server: 118.107.244.112, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: Pool_🇭🇰HK_453, server: 118.107.244.112, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: Relay_🇨🇳CN-🇹🇼TW_262, server: shcu01.iplc188.com, port: 10004, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: Pool_🇭🇰HK_450, server: 118.107.244.112, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: Pool_🇭🇰HK_445, server: 118.107.244.112, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: Pool_🇭🇰HK_444, server: 118.107.244.112, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: Pool_🇭🇰HK_456, server: 118.107.244.112, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: Relay_🇻🇳VN-🇻🇳VN_1815, server: 188.214.152.194, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: t8BFcaM3GSCw5FHbph27, udp: true}
+  - {name: IN_513, server: 172.105.35.61, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: ZZ_2035, server: 169.197.142.39, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: RU_867 |14.57Mb, server: 82.202.220.242, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Kw6hMXQ2Z7ey7mf2Uqyr, udp: true}
+  - {name: Pool_🇭🇰HK_443, server: 118.107.244.112, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US_1169, server: 172.99.190.87, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US_1142, server: 167.88.61.60, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US_1541 |31.55Mb, server: 167.88.61.60, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US_1804, server: 173.82.192.61, port: 443, type: trojan, password: 7NzqVeVxSEsrdvgsdvsdsafcsdgvdfbgSDGFVDGVDSG, skip-cert-verify: true, udp: true}
+  - {name: Relay_🇷🇺RU-🇷🇺RU_711, server: 82.202.220.242, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Kw6hMXQ2Z7ey7mf2Uqyr, udp: true}
+  - {name: ZZ_2056, server: 169.197.142.39, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: _46 |21.89Mb, server: t4.ssrsub.com, port: 156, type: trojan, password: da8ad13d-19e6-4a28-82a6-da15bbc0a968, sni: t4.ssrsub.com, skip-cert-verify: true, udp: true}
+  - {name: US_1074, server: 167.88.61.60, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US_1542 |11.28Mb, server: 167.88.61.60, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: Relay_🇦🇹AT-🇦🇹AT_17, server: 37.120.212.162, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2XtmwMEgsVJYKWF4VjkL, udp: true}
+  - {name: ZZ_2065, server: 169.197.142.39, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US_1068, server: 38.91.102.86, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US_1172, server: 172.99.190.87, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US_1072, server: 38.91.102.86, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US_1096, server: 38.91.102.86, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: Relay_🇮🇩ID-🇮🇩ID_484, server: 45.133.181.58, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qzj5NqakK4YvYYU87eFF, udp: true}
+  - {name: Relay_🇲🇾MY-🇲🇾MY_595, server: 223.25.246.4, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: w4GUD28Bw9uCMdbc2pqA, udp: true}
+  - {name: US_1131, server: 38.91.102.86, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1580 | 8.32Mb, server: 38.91.102.86, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: ZZ_2271 |14.89Mb, server: 169.197.142.39, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_1574 |19.96Mb, server: 167.88.61.60, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US_1113, server: 38.91.102.86, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: Pool_🇭🇰HK_451, server: 118.107.244.112, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1070, server: 167.88.61.60, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US_1075, server: 38.91.102.86, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US_1136, server: 38.91.102.86, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US_1128, server: 167.88.61.60, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: ZZ_2044, server: 169.197.142.39, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US_1092, server: 38.91.102.86, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US_1155, server: 172.99.190.87, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1069, server: 38.91.102.86, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1073, server: 167.88.61.60, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1551 |31.79Mb, server: 167.88.61.60, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: ZZ_2062, server: 169.197.142.39, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US_1067, server: 38.91.102.86, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US_1577 |11.50Mb, server: 167.88.61.60, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1088, server: 38.91.102.86, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2016, server: 169.197.142.39, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: "|23.74Mb", server: 107.173.165.223, port: 80, type: vmess, uuid: 379acc51-024c-4c31-965b-324c8c99167a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: 107.173.165.223}, udp: true}
+  - {name: DE_293, server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563, udp: true}
+  - {name: US_1135, server: 38.91.102.86, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US_1562 |10.48Mb, server: 167.88.61.60, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US_1569 |34.79Mb, server: 167.88.61.60, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: Relay_🇳🇴NO-🇳🇱NL_638, server: 84.247.50.10, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: AsLgDbA45KTMXumtzWhf, udp: true}
+  - {name: ZZ_2023, server: 169.197.142.39, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2250 |19.56Mb, server: 169.197.142.39, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US_1576 |18.50Mb, server: 38.91.102.86, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US_1579 | 7.64Mb, server: 38.91.102.86, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1071, server: 38.91.102.86, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: PH_670, server: 188.214.125.106, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Zq4srheW4eeqMfGeWMTG, udp: true}
+  - {name: US_1567 |13.41Mb, server: 167.88.61.60, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US_899, server: 38.91.102.86, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1080, server: 38.91.102.86, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1156, server: 172.99.190.87, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2268 | 7.36Mb, server: 169.197.142.39, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1154, server: 172.99.190.87, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1081, server: 38.91.102.86, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US_1550 |17.65Mb, server: 167.88.61.60, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US_1555 |10.85Mb, server: 167.88.61.60, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: Relay_🇨🇳CN-🇹🇼TW_261, server: 112.33.32.136, port: 10003, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: US_1769 |137.07Mb, server: 66.42.103.1, port: 50890, type: vmess, uuid: 11365a2e-6938-11ec-9b3d-560003c3fd49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /5YpZGAg8/, ws-headers: {Host: 66.42.103.1}, udp: true}
+  - {name: US_1087, server: 167.88.61.60, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US_1130, server: 38.91.102.86, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US_1099, server: 167.88.61.60, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US_1178, server: 172.99.190.87, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: ZZ_2270 | 6.46Mb, server: 169.197.142.39, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: ZZ_2048, server: 169.197.142.39, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: CA_152, server: 198.57.27.218, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: ZZ_1979, server: 169.197.142.39, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1086, server: 38.91.102.86, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_885, server: 38.91.102.86, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: Relay_🇮🇱IL-🇮🇱IL_491, server: 212.199.61.55, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: scDj68fv6xkMg2np9RgW, udp: true}
+  - {name: US_1179, server: 172.99.190.87, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US_1560 | 8.33Mb, server: 167.88.61.60, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US_1089, server: 167.88.61.60, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1102, server: 38.91.102.86, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: Relay_ | 9.98Mb, server: shcu01.iplc188.com, port: 10004, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: ZZ_2252 |12.71Mb, server: 169.197.142.39, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: Relay_🇦🇺AU-🇦🇺AU_24, server: 46.102.153.106, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy, udp: true}
+  - {name: ZZ_2043, server: 169.197.142.39, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: CA_153, server: 198.57.27.218, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1133, server: 38.91.102.86, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1547 |35.62Mb, server: 38.91.102.86, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1101, server: 38.91.102.86, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_2266 | 9.18Mb, server: 169.197.142.39, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US_1255, server: 38.75.136.93, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: ZZ_2006, server: 169.197.142.39, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US_1565 | 6.61Mb, server: 167.88.61.60, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2269 | 6.08Mb, server: 169.197.142.39, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US_1554 |14.52Mb, server: 167.88.61.60, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US_1581 | 2.12Mb, server: 167.88.61.60, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_1973, server: 169.197.142.39, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1076, server: 167.88.61.60, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1230, server: 38.75.136.93, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US_1552 |39.76Mb, server: 167.88.61.60, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_1978, server: 169.197.142.39, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1231, server: 38.75.136.93, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: CA_221, server: 198.57.27.218, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: ZZ_2263 |20.14Mb, server: 169.197.142.39, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US_1544 |58.47Mb, server: 38.91.102.86, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: Relay_🏁ZZ-🇧🇪BE_2092, server: 77.243.191.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 47GH3wQRw7V4Zhd35bFs, udp: true}
+  - {name: ZZ_2256 | 7.26Mb, server: 169.197.142.39, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US_1942 | 1.41Mb, server: 38.75.136.93, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: CA_146, server: 198.57.27.218, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US_1114, server: 38.91.102.86, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US_1331, server: 38.75.136.93, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: ZZ_2262 |21.12Mb, server: 169.197.142.39, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: Relay_🇺🇸US-🇺🇸US_892, server: 70.32.0.208, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q4apPAjyY9knqKS4e9xZ, udp: true}
+  - {name: _50 |19.95Mb, server: t3.ssrsub.com, port: 156, type: trojan, password: 7644049b-79e1-4c3b-b621-0a464ab47db4, sni: t3.ssrsub.com, skip-cert-verify: true, udp: true}
+  - {name: US_1214, server: 38.75.136.93, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: CA_162, server: 198.57.27.218, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: Relay_🇫🇷FR-🇫🇷FR_362, server: 145.239.1.137, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: _48 |22.61Mb, server: t3.ssrsub.com, port: 156, type: trojan, password: da8ad13d-19e6-4a28-82a6-da15bbc0a968, sni: t3.ssrsub.com, skip-cert-verify: true, udp: true}
+  - {name: _32, server: 192.74.254.112, port: 52244, type: vmess, uuid: 015c0894-50e0-11ec-a3e8-00163c57bd9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /E0Y46mSw/, ws-headers: {Host: 192.74.254.112}, udp: true}
+  - {name: US_1079, server: 38.91.102.86, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US_1888 |14.20Mb, server: 66.55.92.101, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
+  - {name: CA_161, server: 198.57.27.218, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: Relay_🇨🇭CH-🇨🇭CH_244, server: 37.120.137.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS, udp: true}
+  - {name: Relay_🇮🇱IL-🇮🇱IL_490, server: 212.199.61.55, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: scDj68fv6xkMg2np9RgW, udp: true}
+  - {name: CN_248, server: 101.91.121.247, port: 50004, type: ss, cipher: aes-256-cfb, password: !<str> 4415934295, udp: true}
+  - {name: Relay_🇲🇽MX-🇲🇽MX_594, server: 169.57.35.97, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q5yYEGGMu8jU2p25aWL, udp: true}
+  - {name: NO_649, server: 46.29.218.6, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: Relay_🇹🇼TW-🇹🇼TW_816, server: 188.214.106.98, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: cNbqVVyUfbJFZ6S8EgRH, udp: true}
+  - {name: US_1181, server: 172.99.190.87, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: Relay_-🇹🇼TW_41, server: shcu01.iplc188.com, port: 10004, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: US_1558 |20.07Mb, server: 167.88.61.60, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: Relay_🇺🇸US-🇺🇸US_1171, server: 66.55.92.101, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW, udp: true}
+  - {name: NO_645, server: 46.29.218.6, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: ZZ_1987, server: 169.197.142.39, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
