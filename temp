@@ -3,3 +3,12 @@ proxies:
   - {name: 俄罗斯A-RU-CM-0.1x, server: 183.232.226.166, port: 39696, type: vmess, uuid: 8484b0a8-ab51-34a9-8ee0-cc166408c690, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /wx.connectSocket, ws-headers: {Host: www.wechat.com}, udp: true}
   - {name: 马来西亚A-MY-CM-0.2x, server: 183.232.226.168, port: 43007, type: vmess, uuid: 8484b0a8-ab51-34a9-8ee0-cc166408c690, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /wx.connectSocket, ws-headers: {Host: www.wechat.com}, udp: true}
   - {name: CN_tg@freevpn8_336 | 2.77Mb, server: 117.28.243.220, port: 8076, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
+
+  - name: 一键连订阅
+    server: jc.ap.fastqvpn.com
+    port: 29980
+    type: http
+    username: "442993652168396800"
+    password: 2ef91648-089f-4c81-b34d-06f072ec51dd
+    tls: true
+    skip-cert-verify: true
