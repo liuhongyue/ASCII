@@ -1,8 +1,9 @@
 proxies:
   - {name: 一键连订阅, server: jc.ap.fastqvpn.com, port: 29980, type: http, username: "442993652168396800", password: 2ef91648-089f-4c81-b34d-06f072ec51dd, tls: true, skip-cert-verify: true}
 
-  - {name: 日本B-JP-CM-0.4x, server: 183.232.226.165, port: 59075, type: ss, cipher: chacha20-ietf-poly1305, password: YQx0Ht, udp: true}
-  - {name: 俄罗斯A-RU-CM-0.1x, server: 183.232.226.166, port: 39696, type: vmess, uuid: 8484b0a8-ab51-34a9-8ee0-cc166408c690, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /wx.connectSocket, ws-headers: {Host: www.wechat.com}, udp: true}
-  - {name: 马来西亚A-MY-CM-0.2x, server: 183.232.226.168, port: 43007, type: vmess, uuid: 8484b0a8-ab51-34a9-8ee0-cc166408c690, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /wx.connectSocket, ws-headers: {Host: www.wechat.com}, udp: true}
-  - {name: CN_tg@freevpn8_336 | 2.77Mb, server: 117.28.243.220, port: 8076, type: ss, cipher: rc4-md5, password: passinfo123, udp: true}
+  - {name: 🇭🇰 T加速 香港B, server: 52.184.99.226, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, network: ws, ws-opts: {path: /api/www, headers: {Host: hkv2.ddns.tjiasu.xyz}}}
+  - {name: 🇸🇬 T加速 新加坡A, server: v1.369855.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, network: ws, ws-opts: {path: /api/sg, headers: {Host: sgav2.ddns.tjiasu.xyz}}}
+  - {name: 🇺🇲 T加速 美国A, server: 173.255.215.146, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, network: ws, ws-opts: {path: /api/common, headers: {Host: usav2.ddns.tjiasu.xyz}}}
+  - {name: 🇺🇲 T加速 美国B, server: v2.369855.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, network: ws, ws-opts: {path: /api/rn, headers: {Host: usbv2.ddns.tjiasu.xyz}}}
+
 
