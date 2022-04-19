@@ -6,4 +6,5 @@ proxies:
   - {name: 🇺🇲 T加速 美国A, server: 173.255.215.146, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, network: ws, ws-opts: {path: /api/common, headers: {Host: usav2.ddns.tjiasu.xyz}}}
   - {name: 🇺🇲 T加速 美国B, server: v2.369855.xyz, port: 11443, type: vmess, uuid: f77b885e-dd3f-45d0-9bbf-694591b4bc91, alterId: 1, cipher: auto, tls: true, network: ws, ws-opts: {path: /api/rn, headers: {Host: usbv2.ddns.tjiasu.xyz}}}
 
-
+  - {name: 🇷🇺 俄罗斯-隧道中转, server: dog.newhost.cc, port: 10692, type: ssr, cipher: aes-256-cfb, password: TuXJdt, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 18393:3kKDGY, obfs-param: .microsoft.com}
+  - {name: 🇮🇳 印度 孟买-来点玛莎拉, server: dog.newhost.cc, port: 10693, type: ssr, cipher: aes-256-cfb, password: TuXJdt, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 18393:3kKDGY, obfs-param: .microsoft.com}
