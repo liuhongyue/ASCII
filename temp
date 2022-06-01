@@ -5,3 +5,4 @@ proxies:
   - {name: US-A, type: trojan, server: shcm.pdjc.cc, port: 42000, password: 7bbcecd3-2269-4969-8ec1-a053b697b53d, udp: true, sni: us-a.bbbb.pw, skip-cert-verify: true }
   - {name: 🇺🇲 美国02|公益|×0.1, server: 45.137.97.205, port: 58000, type: trojan, password: 87283745-53e3-4a0f-aacd-dc3baa0ddc30, sni: fmus2.shanjun.me, skip-cert-verify: true, udp: true}
   - {name: 🇯🇵 日本01|公益|×1.0, server: 172.104.88.181, port: 48918, type: trojan, password: 87283745-53e3-4a0f-aacd-dc3baa0ddc30, sni: fmjp1.shanjun.me, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 最新域名：galaxy-cloud.com, server: gcfree.galaxy-cloud.icu, port: 443, type: vmess, uuid: 16cabc0f-4968-4929-86a8-a8baf1184db5, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /UAVwoa, headers: {Host: gcfree.galaxy-cloud.icu}}, udp: true}
