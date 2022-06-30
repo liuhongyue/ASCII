@@ -1,2 +1,3 @@
 proxies:
   - {name: 🇺🇲 美国02|公益|×0.1, server: 45.137.97.205, port: 58000, type: trojan, password: 87283745-53e3-4a0f-aacd-dc3baa0ddc30, sni: fmus2.shanjun.me, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇲 美国03|公益|×0.1, server: 45.137.97.205, port: 58000, type: trojan, password: df4d15a9-0c85-4ffc-a724-a06211c1288c, sni: fmus2.shanjun.me, skip-cert-verify: true, udp: true}
