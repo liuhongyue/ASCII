@@ -7,3 +7,4 @@ proxies:
   - {name: 🇨🇳 v2云节点 ➤4 公益免费 ➤ x0, server: gnyd.ddnsguru.com, port: 60127, type: vmess, uuid: 593d504b-74f9-35ed-82bc-94d3f6315e8d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: gnyd.ddnsguru.com}}}
   - {name: 🇨🇳 v2云节点 ➤5 公益免费 ➤ x0, server: gnyd.ddnsguru.com, port: 60128, type: vmess, uuid: 593d504b-74f9-35ed-82bc-94d3f6315e8d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: gnyd.ddnsguru.com}}}
   - {name: 🇨🇳 v2云节点 ➤6 公益免费 ➤ x0, server: gnyd.ddnsguru.com, port: 60129, type: vmess, uuid: 593d504b-74f9-35ed-82bc-94d3f6315e8d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: gnyd.ddnsguru.com}}}
+  - {name: 随缘极速1, server: h961359.strongpipe.live, port: 11543, type: http, username: dcf12c7e7d, password: 26bae9b023, tls: true, skip-cert-verify: true}
