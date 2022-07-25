@@ -11,3 +11,8 @@ proxies:
   - {"name":"柬埔寨","type":"trojan","server":"kh1.nodegz.top","port":443,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"kh1.nodegz.top"}
   - {"name":"瑞士","type":"trojan","server":"ch1.nodegz.top","port":1400,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"ch1.nodegz.top"}
   - {"name":"美国INAP","type":"trojan","server":"us2.nodegz.top","port":14001,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"us2.nodegz.top"}
+  
+  - {name: 🇨🇳 v2云节点 ➤1 公益免费 ➤ x0, server: free.ddnsguru.com, port: 29917, type: vmess, uuid: 25cd8c1e-8f3a-3633-928c-58e818a4d52c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
+  - {name: 🇨🇳 v2云节点 ➤2 公益免费 ➤ x0, server: free.ddnsguru.com, port: 29919, type: vmess, uuid: 25cd8c1e-8f3a-3633-928c-58e818a4d52c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
+  - {name: 🇨🇳 v2云节点 ➤3 公益免费 ➤ x0, server: free.ddnsguru.com, port: 29917, type: vmess, uuid: 593d504b-74f9-35ed-82bc-94d3f6315e8d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
+  - {name: 🇨🇳 v2云节点 ➤3 公益免费 ➤ x0, server: free.ddnsguru.com, port: 29919, type: vmess, uuid: 593d504b-74f9-35ed-82bc-94d3f6315e8d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
