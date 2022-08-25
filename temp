@@ -1,18 +1,11 @@
 proxies:
-  - {name: 🇺🇲 美国02|公益|×0.1, server: 45.137.97.205, port: 58000, type: trojan, password: 87283745-53e3-4a0f-aacd-dc3baa0ddc30, sni: fmus2.shanjun.me, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇲 美国03|公益|×0.1, server: 45.137.97.205, port: 58000, type: trojan, password: df4d15a9-0c85-4ffc-a724-a06211c1288c, sni: fmus2.shanjun.me, skip-cert-verify: true, udp: true}
-  - {"name":"俄罗斯","type":"trojan","server":"ru1.nodegz.top","port":1200,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"ru1.nodegz.top"}
-  - {"name":"卢森堡","type":"trojan","server":"lu1.crunode.top","port":1400,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"lu1.crunode.top"}
-  - {"name":"拉斯维加斯","type":"trojan","server":"us1.crunode.top","port":1200,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"us1.crunode.top"}
-  - {"name":"新加坡","type":"trojan","server":"sg1.nodegz.top","port":444,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"sg1.nodegz.top"}
-  - {"name":"新加坡2","type":"trojan","server":"sg1.crunode.top","port":443,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"sg1.crunode.top"}
-  - {"name":"日本","type":"trojan","server":"jp1.nodegz.top","port":443,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"jp1.nodegz.top"}
-  - {"name":"日本²","type":"trojan","server":"jpgmo.crunode.top","port":1400,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"jpgmo.crunode.top"}
-  - {"name":"柬埔寨","type":"trojan","server":"kh1.nodegz.top","port":443,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"kh1.nodegz.top"}
-  - {"name":"瑞士","type":"trojan","server":"ch1.nodegz.top","port":1400,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"ch1.nodegz.top"}
-  - {"name":"美国INAP","type":"trojan","server":"us2.nodegz.top","port":14001,"password":"7582e9d7-53ef-3814-b358-cf35264bf19b","sni":"us2.nodegz.top"}
-  
-  - {name: 🇨🇳 v2云节点 ➤1 公益免费 ➤ x0, server: free.ddnsguru.com, port: 29917, type: vmess, uuid: 25cd8c1e-8f3a-3633-928c-58e818a4d52c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
-  - {name: 🇨🇳 v2云节点 ➤2 公益免费 ➤ x0, server: free.ddnsguru.com, port: 29919, type: vmess, uuid: 25cd8c1e-8f3a-3633-928c-58e818a4d52c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
-  - {name: 🇨🇳 v2云节点 ➤3 公益免费 ➤ x0, server: free.ddnsguru.com, port: 29917, type: vmess, uuid: 593d504b-74f9-35ed-82bc-94d3f6315e8d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
-  - {name: 🇨🇳 v2云节点 ➤4 公益免费 ➤ x0, server: free.ddnsguru.com, port: 29919, type: vmess, uuid: 593d504b-74f9-35ed-82bc-94d3f6315e8d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
+  - {name: 🇭🇰 香港高速, server: iiiieeepppplll.zhengzhongfeizhu.xyz, port: 34001, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true}
+  - {name: _YouTube：全网最强白嫖, server: fn600mliness017.fnline.xyz, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 8812c0e4e2b0, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness017.fnline.xyz, path: /, tls: true, mux: true}}
+  - {name: 🇭🇰 _CN_中国->🇭🇰_HK_香港, server: iiiieeepppplll.zhengzhongfeizhu.xyz, port: 34002, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true}
+  - {name: _YouTube：全网最强白嫖 2, server: fn600mliness018.fnline.xyz, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 55011c8548ff, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mliness018.fnline.xyz, path: /, tls: true, mux: true}}
+  - {name: YouTube：全网最强白嫖, server: fn600mlines008.fnline.vip, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: fc568c325d09, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: fn600mlines008.fnline.vip, path: /, tls: true, mux: true}}
+  - {name: _YouTube：全网最强白嫖 3, server: iiiieeepppplll.zhengzhongfeizhu.xyz, port: 34002, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true}
+  - {name: 🇭🇰 _CN_中国->🇭🇰_HK_香港 2, server: iiiieeepppplll.zhengzhongfeizhu.xyz, port: 34002, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true}
+  - {name: "🇭🇰 [LV2·原生] 香港02 | IEPL 专线 | 3x", server: iiiieeepppplll.zhengzhongfeizhu.xyz, port: 34001, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, sni: 111-47-215-139.nhost.00cdn.com, skip-cert-verify: true}
+  - {name: 🇭🇰 _CN_中国->🇭🇰_HK_香港 3, server: iiiieeepppplll.zhengzhongfeizhu.xyz, port: 34001, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true}
+  - {name: _YouTube：全网最强白嫖 4, server: iiiieeepppplll.zhengzhongfeizhu.xyz, port: 34001, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, skip-cert-verify: true}
