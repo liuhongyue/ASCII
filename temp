@@ -1,15 +1,7 @@
 proxies:
-  - {name: 🇷🇺 俄罗斯, server: ru1.nodegz.top, port: 1200, type: trojan, password: a8a4f0ea-96e2-38ac-a347-902a729e36b8, sni: ru1.nodegz.top}
-  - {name: 🇸🇬 新加坡- cv2.work 赞助, server: sg1.nodegz.top, port: 1400, type: trojan, password: a8a4f0ea-96e2-38ac-a347-902a729e36b8, sni: sg1.nodegz.top}
-  - {name: 🇸🇬 新加坡2, server: sg1.crunode.top, port: 22000, type: trojan, password: a8a4f0ea-96e2-38ac-a347-902a729e36b8, sni: sg1.crunode.top}
-  - {name: 🇯🇵 日本, server: jp1.nodegz.top, port: 443, type: trojan, password: a8a4f0ea-96e2-38ac-a347-902a729e36b8, sni: jp1.nodegz.top}
-  - {name: 🇯🇵 日本²- mojie.ws 赞助, server: jpgmo.crunode.top, port: 22000, type: trojan, password: a8a4f0ea-96e2-38ac-a347-902a729e36b8, sni: jpgmo.crunode.top}
-  - {name: 🇯🇵 日本³, server: sgd1.crunode.top, port: 1200, type: trojan, password: a8a4f0ea-96e2-38ac-a347-902a729e36b8, sni: sgd1.crunode.top}
-  - {name: 🇰🇭 柬埔寨- mojie.ws 赞助, server: kh1.nodegz.top, port: 22000, type: trojan, password: a8a4f0ea-96e2-38ac-a347-902a729e36b8, sni: kh1.nodegz.top}
-  - {name: 🇺🇸 美国INAP, server: us2.nodegz.top, port: 22000, type: trojan, password: a8a4f0ea-96e2-38ac-a347-902a729e36b8, sni: us2.nodegz.top}
-  - {name: 🇭🇰 香港¹- mojie.ws 热情赞助, server: hk1a2.nodegz.top, port: 22000, type: trojan, password: a8a4f0ea-96e2-38ac-a347-902a729e36b8, sni: hk1a2.nodegz.top}
-  
-  - {name: 🇨🇳 v2云节点 ➤1 公益免费 ➤ x1, server: free.ddnsguru.com, port: 443, type: vmess, uuid: 25cd8c1e-8f3a-3633-928c-58e818a4d52c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
-  - {name: 🇨🇳 v2云节点 ➤2 公益免费 ➤ x1, server: free.ddnsguru.com, port: 443, type: vmess, uuid: 593d504b-74f9-35ed-82bc-94d3f6315e8d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
+  - {name: 🇨🇳 v2云节点 ➤1 公益免费 ➤ x1, server: free.ddnsguru.com, port: 80, type: vmess, uuid: 25cd8c1e-8f3a-3633-928c-58e818a4d52c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
+  - {name: 🇨🇳 v2云节点 ➤2 公益免费 ➤ x1, server: free.ddnsguru.com, port: 443, type: vmess, uuid: 25cd8c1e-8f3a-3633-928c-58e818a4d52c, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
+  - {name: 🇨🇳 v2云节点 ➤3 公益免费 ➤ x1, server: free.ddnsguru.com, port: 80, type: vmess, uuid: 593d504b-74f9-35ed-82bc-94d3f6315e8d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
+  - {name: 🇨🇳 v2云节点 ➤4 公益免费 ➤ x1, server: free.ddnsguru.com, port: 443, type: vmess, uuid: 593d504b-74f9-35ed-82bc-94d3f6315e8d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: free.ddnsguru.com}}}
 
   - {name: PDJC, type: trojan, server: shcm.pdjs.top, port: 42000, password: 2a8dd139-23da-4e7a-86bf-dee079b89a03, udp: true, sni: us-a.bbbb.pw, skip-cert-verify: true }
