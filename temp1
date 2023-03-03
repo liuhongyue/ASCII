@@ -1,0 +1,2 @@
+proxies:
+  - {name: heroku---a, server: heroku---a.herokuapp.com, port: 443, type: vmess, uuid: 1e433eec-9afa-421e-b2d9-bf5941ad13c2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: heroku---a.herokuapp.com}}}
