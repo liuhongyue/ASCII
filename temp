@@ -1,6 +1,33 @@
 proxies:
-  - {name: "🇭🇰 香港02[高速节点]", server: live15.suijiceshi.xyz, port: 2052, type: vmess, uuid: bfb32a33-cb31-4a10-ad54-b52da93d7173, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /xbov/6f42f0ef9d9257447d1f4d4391b4dd76e164c00fb47c0a318b3b1125e03f4d959921f11e97d0da21/media_0003.ts, headers: {Host: live15.hlzuifv.cn}}}
-  - {name: "🇭🇰 香港01[高速节点]", server: live15.suijiceshi.xyz, port: 2052, type: vmess, uuid: bfb32a33-cb31-4a10-ad54-b52da93d7173, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /xbov/6f42f0ef9d9257447d1f4d4391b4dd76e164c00fb47c0a318b3b1125e03f4d959921f11e97d0da21/media_0003.ts, headers: {Host: live15.hlzuifv.cn}}}
-  - {name: 🇯🇵 日本, server: 43.206.221.120, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇸🇬 新加坡01, server: awssg3.jiasub.xyz, port: 41005, type: vmess, uuid: b9ef5e8b-28dc-3d2f-b006-a4f7a28bc605, alterId: 0, cipher: auto, tls: true, servername: awssg3.jiasub.xyz, network: ws, ws-opts: {path: /Download, headers: {Host: awssg3.jiasub.xyz}}}
-  - {name: 🇸🇬 新加坡02, server: awssg4.jiasub.xyz, port: 40009, type: vmess, uuid: b9ef5e8b-28dc-3d2f-b006-a4f7a28bc605, alterId: 0, cipher: auto, tls: true, servername: awssg4.jiasub.xyz, network: ws, ws-opts: {path: /Download, headers: {Host: awssg4.jiasub.xyz}}}
+  - {name: singapore 1, server: singapore.u--u.eu.org, port: 443, type: vmess, uuid: a476dbbe-05d9-4895-aa1c-17e0876c0c16, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /singapore, headers: {Host: singapore.u--u.eu.org}}, udp: true}
+  - {name: singapore 3, server: singapore1.u--u.eu.org, port: 443, type: vmess, uuid: 7ad2146f-9263-424d-c0f3-2d037ade0218, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /singapore1, headers: {Host: singapore1.u--u.eu.org}}, udp: true}
+
+  - {name: 🇦🇷 大阪_ARM1-IPV4, server: 138.2.33.94, port: 25706, type: vmess, uuid: 60a49cbd-09ec-4e4b-b9a0-1b593cc6d01a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
+  - {name: 大阪_gRPC, server: osaka1.bantom.cf, port: 443, type: trojan, password: 1e014542-38d9-4501-9281-1f4c652d8a29, sni: osaka1.bantom.cf}
+  - {name: 大阪_IPV4, server: 138.2.32.189, port: 53145, type: vmess, uuid: 74be8a31-821a-4635-a5fd-618e21ab2d5d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}}
+  - {name: 大阪_tcp_Trojan, server: osaka1.bantom.cf, port: 443, type: trojan, password: 1e014542-38d9-4501-9281-1f4c652d8a29, sni: osaka1.bantom.cf}
+  - {name: 大阪_ws, server: osaka1.bantom.cf, port: 443, type: vmess, uuid: 1e014542-38d9-4501-9281-1f4c652d8a29, alterId: 0, cipher: auto, tls: true, servername: osaka1.bantom.cf, network: ws, ws-opts: {path: /fmasvws, headers: {Host: osaka1.bantom.cf}}}
+  - {name: 🇰🇷 首尔1_gRPC, server: seoulvpn.bantom.cf, port: 443, type: trojan, password: 67fcab87-2a6b-46b6-8f6a-3b5ea47a4130, sni: seoulvpn.bantom.cf}
+  - {name: 🇰🇷 首尔1_tcp_Trojan, server: seoulvpn.bantom.cf, port: 443, type: trojan, password: 67fcab87-2a6b-46b6-8f6a-3b5ea47a4130, sni: seoulvpn.bantom.cf}
+  - {name: 🇰🇷 首尔1_ws, server: seoulvpn.bantom.cf, port: 443, type: vmess, uuid: 67fcab87-2a6b-46b6-8f6a-3b5ea47a4130, alterId: 0, cipher: auto, tls: true, servername: seoulvpn.bantom.cf, network: ws, ws-opts: {path: /cihvvws, headers: {Host: seoulvpn.bantom.cf}}}
+  - {name: 🇰🇷 首尔2_gRPC, server: seoul.bantom.cf, port: 443, type: trojan, password: 76fc2dd4-5d93-46b7-8117-7841568aa053, sni: seoul.bantom.cf}
+  - {name: 🇰🇷 首尔2_tcp_Trojan, server: seoul.bantom.cf, port: 443, type: trojan, password: 76fc2dd4-5d93-46b7-8117-7841568aa053, sni: seoul.bantom.cf}
+  - {name: 🇰🇷 首尔2_ws, server: seoul.bantom.cf, port: 443, type: vmess, uuid: 76fc2dd4-5d93-46b7-8117-7841568aa053, alterId: 0, cipher: auto, tls: true, servername: seoul.bantom.cf, network: ws, ws-opts: {path: /qwtrvws, headers: {Host: seoul.bantom.cf}}}
+  - {name: 🇰🇷 首尔3_gRPC, server: s2.cjc5.eu.org, port: 443, type: trojan, password: f0583556-32d3-0513-a767-4aad86c8b724, sni: s2.cjc5.eu.org}
+  - {name: 🇰🇷 首尔3_tcp_Trojan, server: s2.cjc5.eu.org, port: 443, type: trojan, password: f0583556-32d3-0513-a767-4aad86c8b724, sni: s2.cjc5.eu.org}
+  - {name: 🇰🇷 首尔3_ws, server: s2.cjc5.eu.org, port: 443, type: vmess, uuid: f0583556-32d3-0513-a767-4aad86c8b724, alterId: 0, cipher: auto, tls: true, servername: s2.cjc5.eu.org, network: ws, ws-opts: {path: /pjxhvws, headers: {Host: s2.cjc5.eu.org}}}
+  - {name: 🇰🇷 首尔4_gRPC, server: s9.cjc5.eu.org, port: 443, type: trojan, password: 2a2a0028-5308-4104-8a07-dd73d860fa84, sni: s9.cjc5.eu.org}
+  - {name: 🇰🇷 首尔4_tcp, server: s9.cjc5.eu.org, port: 443, type: trojan, password: 2a2a0028-5308-4104-8a07-dd73d860fa84, sni: s9.cjc5.eu.org}
+  - {name: 🇰🇷 首尔4_ws, server: s9.cjc5.eu.org, port: 443, type: vmess, uuid: 2a2a0028-5308-4104-8a07-dd73d860fa84, alterId: 0, cipher: auto, tls: true, servername: s9.cjc5.eu.org, network: ws, ws-opts: {path: /ebopvws, headers: {Host: s9.cjc5.eu.org}}}
+  - {name: 🇺🇲 圣何塞1_gRPC, server: sanjose4.liuyoyo.cf, port: 443, type: trojan, password: 1edb3f68-afde-4bfe-9951-9b820063b6e4, sni: sanjose4.liuyoyo.cf}
+  - {name: 🇺🇲 圣何塞1_Trojan, server: sanjose4.liuyoyo.cf, port: 443, type: trojan, password: 1edb3f68-afde-4bfe-9951-9b820063b6e4, sni: sanjose4.liuyoyo.cf}
+  - {name: 🇺🇲 圣何塞1_ws, server: sanjose4.liuyoyo.cf, port: 443, type: vmess, uuid: 1edb3f68-afde-4bfe-9951-9b820063b6e4, alterId: 0, cipher: auto, tls: true, servername: sanjose4.liuyoyo.cf, network: ws, ws-opts: {path: /jkftvws, headers: {Host: sanjose4.liuyoyo.cf}}}
+  - {name: 🇺🇲 圣何塞2_trojan_gRPC, server: san2.cjc5.eu.org, port: 443, type: trojan, password: 0fb017d2-189a-0da1-ef58-40ac83fc9757, sni: san2.cjc5.eu.org}
+  - {name: 🇺🇲 圣何塞2_trojan_tcp_Trojan, server: san2.cjc5.eu.org, port: 443, type: trojan, password: 0fb017d2-189a-0da1-ef58-40ac83fc9757, sni: san2.cjc5.eu.org}
+  - {name: 🇺🇲 圣何塞2_vmess_ws, server: san2.cjc5.eu.org, port: 443, type: vmess, uuid: 0fb017d2-189a-0da1-ef58-40ac83fc9757, alterId: 0, cipher: auto, tls: true, servername: san2.cjc5.eu.org, network: ws, ws-opts: {path: /kseivws, headers: {Host: san2.cjc5.eu.org}}}
+  - {name: 🇺🇲 圣何塞3_trojan_gRPC, server: san4.cjc5.eu.org, port: 443, type: trojan, password: ea59c9d2-59ba-a19b-18f9-e8f8e03cb361, sni: san4.cjc5.eu.org}
+  - {name: 🇺🇲 圣何塞3_trojan_tcp_Trojan, server: san4.cjc5.eu.org, port: 443, type: trojan, password: ea59c9d2-59ba-a19b-18f9-e8f8e03cb361, sni: san4.cjc5.eu.org}
+  - {name: 🇺🇲 圣何塞3_vmess_ws, server: san4.cjc5.eu.org, port: 443, type: vmess, uuid: ea59c9d2-59ba-a19b-18f9-e8f8e03cb361, alterId: 0, cipher: auto, tls: true, servername: san4.cjc5.eu.org, network: ws, ws-opts: {path: /hyiovws, headers: {Host: san4.cjc5.eu.org}}}
+  - {name: 🇺🇲 圣何塞4_trojan_gRPC, server: san1.cjc5.eu.org, port: 443, type: trojan, password: fd16672f-d6c0-a26f-6241-2a90f13bf047, sni: san1.cjc5.eu.org}
+  - {name: 🇺🇲 圣何塞4_trojan_tcp_Trojan, server: san1.cjc5.eu.org, port: 443, type: trojan, password: fd16672f-d6c0-a26f-6241-2a90f13bf047, sni: san1.cjc5.eu.org}
+  - {name: 🇺🇲 圣何塞4_vmess_ws, server: san1.cjc5.eu.org, port: 443, type: vmess, uuid: fd16672f-d6c0-a26f-6241-2a90f13bf047, alterId: 0, cipher: auto, tls: true, servername: san1.cjc5.eu.org, network: ws, ws-opts: {path: /fnadvws, headers: {Host: san1.cjc5.eu.org}}}
